@@ -12,4 +12,4 @@ int main()
       printf("平年\n",year);
   }
   return 0;
-
+}
