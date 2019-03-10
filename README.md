@@ -4,7 +4,7 @@ My write up for zerojudge by using C
 Website : https://zerojudge.tw/
 
 ## Category
-  * [基礎題庫](基礎題庫)
+  * [基礎題庫](基礎題庫/Contents)
   * 競賽題庫
   * 101/APCS
   * UVa題庫
