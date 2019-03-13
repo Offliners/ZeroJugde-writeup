@@ -1,9 +1,13 @@
 ## Title
 problem
 
-## Solution
+## C
 ```C
 ```
-
-## Result
-result
+  * Result :
+  
+## Python
+```python
+```
+  * Result : 
+  
