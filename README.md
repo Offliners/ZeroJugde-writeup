@@ -1,5 +1,5 @@
 ## ZeroJugde-writeup
-My write up for zerojudge by using C
+My write up for zerojudge
 
 Website : https://zerojudge.tw/
 
