@@ -8,4 +8,4 @@
 |a004: 文文的求婚|[a004](Contents/a004/a004.md)|[a004](Contents/a004/a004.c)|[a004](Contents/a004/a004.py)|
 |a005: Eva 的回家作業|[a005](Contents/a005/a005.md)|[a005](Contents/a005/a005.c)|[a005](Contents/a005/a005.py)|
 |a006: 一元二次方程式|[a006](Contents/a006/a006.md)|[a006](Contents/a006/a006.c)|[a006](Contents/a006/a006.py)|
-|a009: 解碼器|[a009](Contents/a009/a009.md)|[a009](Contents/a009/a009.c)| |
+|a009: 解碼器|[a009](Contents/a009/a009.md)|[a009](Contents/a009/a009.c)|[a009](Contents/a009/a009.py)|
