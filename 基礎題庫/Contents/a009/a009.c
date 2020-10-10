@@ -3,12 +3,12 @@
 
 int main(void)
 {
-    char input[9999];
-    while(scanf("%s",input) != EOF)
-    {
-         for(int i = 0;i<strlen(input);i++)
-              printf("%c",input[i]-7);
-         printf("\n");
-    }
-     return 0;
+	char input[9999];
+	
+	while(scanf("%s", input) != EOF)
+	{
+		for(int i = 0; i < strlen(input); i++)
+			printf("%c", input[i] - 7);
+		printf("\n");
+	}
 }
