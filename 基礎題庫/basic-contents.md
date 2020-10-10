@@ -14,4 +14,6 @@
 |a015: 矩陣的翻轉|[a015](Contents/a015/a015.md)|[a015](Contents/a015/a015.c)||
 |a017: 五則運算|[a017](Contents/a017/a017.md)|[a017](Contents/a017/a017.c)||
 |a020: 身分證檢驗|[a020](Contents/a020/a020.md)|[a020](Contents/a020/a020.c)||
+|a021: 大數運算||||
+|a022: 迴文|[a022](Contents/a022/a022.md)|[a022](Contents/a022/a022.c)||
 |a024: 最大公因數(GCD)|[a024](Contents/a024/a024.md)|[a024](Contents/a024/a024.c)||
