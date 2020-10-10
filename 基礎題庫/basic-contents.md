@@ -21,3 +21,4 @@
 |a038: 數字翻轉|[a038](Contents/a038/a038.md)|[a038](Contents/a038/a038.c)||
 |a040: 阿姆斯壯數||||
 |a042: 平面圓形切割|[a042](Contents/a042/a042.md)|[a042](Contents/a042/a042.c)||
+|a044: 空間切割|[a044](Contents/a044/a044.md)|[a044](Contents/a044/a044.c)||
