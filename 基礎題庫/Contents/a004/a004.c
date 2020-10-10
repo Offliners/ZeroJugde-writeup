@@ -1,15 +1,23 @@
 #include<stdio.h>
 
-int main()
+int isLeap(int);
+
+int main(void)
 {
-  int year;
-  while(scanf("%d",&year)!=EOF)
-  {	
-    _Bool IsLeapYear = (year%400 == 0 || (year%4 == 0 && year%100 !=0));
-    if(IsLeapYear) 
-      printf("閏年\n",year);
-    else
-      printf("平年\n",year);
-  }
-  return 0;
+	int year;
+	
+	while(scanf("%d", &year) != EOF)
+	{
+		if(isLeap(year))
+			printf("閏年\n");
+		else
+			printf("平年\n");
+	}
+	
+	return 0;
+}
+
+int isLeap(int year)
+{
+	return (year % 400 == 0 || (year % 4 == 0 && year % 100 != 0)) ? 1 : 0;
 }
