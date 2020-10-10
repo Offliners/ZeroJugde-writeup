@@ -13,4 +13,5 @@
 |a013: 羅馬數字|[a013](Contents/a013/a013.md)|[a013](Contents/a013/a013.c)||
 |a015: 矩陣的翻轉|[a015](Contents/a015/a015.md)|[a015](Contents/a015/a015.c)||
 |a017: 五則運算|[a017](Contents/a017/a017.md)|[a017](Contents/a017/a017.c)||
+|a020: 身分證檢驗|[a020](Contents/a020/a020.md)|[a020](Contents/a020/a020.c)||
 |a024: 最大公因數(GCD)|[a024](Contents/a024/a024.md)|[a024](Contents/a024/a024.c)||
