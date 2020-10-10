@@ -1,11 +1,11 @@
 #include<stdio.h>
 
-int main() 
+int main(void)
 {
-  char s[9999];
-  while(scanf("%s",&s) != EOF ) 
-  {
-    printf("hello, %s\n",s);
-  }
-  return 0;
+	char str[9999];
+	
+	while(scanf("%s", &str) != EOF)
+		printf("hello, %s\n", str);
+		
+	return 0;
 }
