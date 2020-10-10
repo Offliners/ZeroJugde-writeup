@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
 
 int isReal(char []);
 int Sign2Num(char);
