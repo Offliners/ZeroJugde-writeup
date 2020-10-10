@@ -12,4 +12,5 @@
 |a010: 因數分解|[a010](Contents/a010/a010.md)|[a010](Contents/a010/a010.c)||
 |a013: 羅馬數字|[a013](Contents/a013/a013.md)|[a013](Contents/a013/a013.c)||
 |a015: 矩陣的翻轉|[a015](Contents/a015/a015.md)|[a015](Contents/a015/a015.c)||
+|a017: 五則運算|[a017](Contents/a017/a017.md)|[a017](Contents/a017/a017.c)||
 |a024: 最大公因數(GCD)|[a024](Contents/a024/a024.md)|[a024](Contents/a024/a024.c)||
