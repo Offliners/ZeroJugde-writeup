@@ -26,6 +26,7 @@
 |a059: 完全平方和|[a059](Contents/a059/a059.md)|[a059](Contents/a059/a059.c)||
 |a065: 提款卡密碼|[a065](Contents/a065/a065.md)|[a065](Contents/a065/a065.c)||
 |a104: 排序|[a104](Contents/a104/a104.md)|[a104](Contents/a104/a104.c)||
+|a121: 質數又來囉|[a121](Contents/a121/a121.md)|[a121](Contents/a121/a121.c)||
 |a147: Print it all|[a147](Contents/a147/a147.md)|[a147](Contents/a147/a147.c)||
 |a148: You Cannot Pass?!|[a148](Contents/a148/a148.md)|[a148](Contents/a148/a148.c)||
 |a149: 乘乘樂|[a149](Contents/a149/a149.md)|[a149](Contents/a149/a149.c)||
