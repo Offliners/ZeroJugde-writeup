@@ -25,3 +25,4 @@
 |a053: Sagit's 計分程式|[a053](Contents/a053/a053.md)|[a053](Contents/a053/a053.c)||
 |a059: 完全平方和|[a059](Contents/a059/a059.md)|[a059](Contents/a059/a059.c)||
 |a104: 排序|[a104](Contents/a104/a104.md)|[a104](Contents/a104/a104.c)||
+|a148: You Cannot Pass?!|[a148](Contents/a148/a148.md)|[a148](Contents/a148/a148.c)||
