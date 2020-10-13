@@ -30,3 +30,4 @@
 |a147: Print it all|[a147](Contents/a147/a147.md)|[a147](Contents/a147/a147.c)||
 |a148: You Cannot Pass?!|[a148](Contents/a148/a148.md)|[a148](Contents/a148/a148.c)||
 |a149: 乘乘樂|[a149](Contents/a149/a149.md)|[a149](Contents/a149/a149.c)||
+|a244: 新手訓練 ~ for + if |[a244](Contents/a244/a244.md)|[a244](Contents/a244/a244.c)||
