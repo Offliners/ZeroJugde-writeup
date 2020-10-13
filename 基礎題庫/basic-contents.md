@@ -30,5 +30,6 @@
 |a147: Print it all|[a147](Contents/a147/a147.md)|[a147](Contents/a147/a147.c)||
 |a148: You Cannot Pass?!|[a148](Contents/a148/a148.md)|[a148](Contents/a148/a148.c)||
 |a149: 乘乘樂|[a149](Contents/a149/a149.md)|[a149](Contents/a149/a149.c)||
+|a215: 明明愛數數|[a215](Contents/a215/a215.md)|[a215](Contents/a215/a215.c)||
 |a244: 新手訓練 ~ for + if|[a244](Contents/a244/a244.md)|[a244](Contents/a244/a244.c)||
 |a248: 新手訓練 ~ 陣列應用|[a248](Contents/a248/a248.md)|[a248](Contents/a248/a248.c)||
