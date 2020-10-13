@@ -6,11 +6,9 @@ int main(void)
 	
 	while(scanf("%lld", &n) != EOF)
 	{
-		long long int f;
-		long long int g;
+		long long int f = n * (n + 1) / 2;
+		long long int g = n * (n + 1) * (n + 2) / 6;
 		
-		f = (n * (n + 1) / 2);
-		g = (n * (n + 1) * (n + 2) / 6);
 		printf("%lld %lld\n", f, g);
 	}
 	
