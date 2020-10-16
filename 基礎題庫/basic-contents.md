@@ -24,6 +24,7 @@
 |a044: 空間切割|[a044](Contents/a044/a044.md)|[a044](Contents/a044/a044.c)||
 |a053: Sagit's 計分程式|[a053](Contents/a053/a053.md)|[a053](Contents/a053/a053.c)||
 |a054: 電話客服中心|[a054](Contents/a054/a054.md)|[a054](Contents/a054/a054.c)||
+|a058: MOD3|[a058](Contents/a058/a058.md)|[a058](Contents/a058/a058.c)||
 |a059: 完全平方和|[a059](Contents/a059/a059.md)|[a059](Contents/a059/a059.c)||
 |a065: 提款卡密碼|[a065](Contents/a065/a065.md)|[a065](Contents/a065/a065.c)||
 |a104: 排序|[a104](Contents/a104/a104.md)|[a104](Contents/a104/a104.c)||
