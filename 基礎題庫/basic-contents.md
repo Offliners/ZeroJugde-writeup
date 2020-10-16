@@ -27,6 +27,7 @@
 |a058: MOD3|[a058](Contents/a058/a058.md)|[a058](Contents/a058/a058.c)||
 |a059: 完全平方和|[a059](Contents/a059/a059.md)|[a059](Contents/a059/a059.c)||
 |a065: 提款卡密碼|[a065](Contents/a065/a065.md)|[a065](Contents/a065/a065.c)||
+|a095: 麥哲倫的陰謀||||
 |a104: 排序|[a104](Contents/a104/a104.md)|[a104](Contents/a104/a104.c)||
 |a121: 質數又來囉|[a121](Contents/a121/a121.md)|[a121](Contents/a121/a121.c)||
 |a147: Print it all|[a147](Contents/a147/a147.md)|[a147](Contents/a147/a147.c)||
@@ -34,6 +35,9 @@
 |a149: 乘乘樂|[a149](Contents/a149/a149.md)|[a149](Contents/a149/a149.c)||
 |a215: 明明愛數數|[a215](Contents/a215/a215.md)|[a215](Contents/a215/a215.c)||
 |a216: 數數愛明明|[a216](Contents/a216/a216.md)|[a216](Contents/a216/a216.c)||
+|a224: 明明愛明明||||
+|a225: 明明愛排列||||
+|a229: 括號匹配問題||||
 |a244: 新手訓練 ~ for + if|[a244](Contents/a244/a244.md)|[a244](Contents/a244/a244.c)||
 |a248: 新手訓練 ~ 陣列應用|[a248](Contents/a248/a248.md)|[a248](Contents/a248/a248.c)||
 |a738: 最大公约数|[a738](Contents/a738/a738.md)|[a738](Contents/a738/a738.c)||
