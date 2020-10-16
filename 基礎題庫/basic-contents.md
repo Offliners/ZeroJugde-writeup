@@ -42,6 +42,7 @@
 |a248: 新手訓練 ~ 陣列應用|[a248](Contents/a248/a248.md)|[a248](Contents/a248/a248.c)||
 |a410: 解方程|[a410](Contents/a410/a410.md)|[a410](Contents/a410/a410.c)||
 |a738: 最大公约数|[a738](Contents/a738/a738.md)|[a738](Contents/a738/a738.c)||
+|a740: 质因数之和|[a740](Contents/a740/a740.md)|[a740](Contents/a740/a740.c)||
 |b970: 我不說髒話 (續)|[b970](Contents/b970/b970.md)|[b970](Contents/b970/b970.c)||
 |b971: 等差數列|[b971](Contents/b971/b971.md)|[b971](Contents/b971/b971.c)||
 |c418: Bert的三角形 (1)|[c418](Contents/c418/c418.md)|[c418](Contents/c418/c418.c)||
