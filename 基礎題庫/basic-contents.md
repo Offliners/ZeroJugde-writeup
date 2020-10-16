@@ -42,3 +42,4 @@
 |a248: 新手訓練 ~ 陣列應用|[a248](Contents/a248/a248.md)|[a248](Contents/a248/a248.c)||
 |a410: 解方程|[a410](Contents/a410/a410.md)|[a410](Contents/a410/a410.c)||
 |a738: 最大公约数|[a738](Contents/a738/a738.md)|[a738](Contents/a738/a738.c)||
+|c418: Bert的三角形 (1)|[c418](Contents/c418/c418.md)|[c418](Contents/c418/c418.c)||
