@@ -35,3 +35,4 @@
 |a216: 數數愛明明|[a216](Contents/a216/a216.md)|[a216](Contents/a216/a216.c)||
 |a244: 新手訓練 ~ for + if|[a244](Contents/a244/a244.md)|[a244](Contents/a244/a244.c)||
 |a248: 新手訓練 ~ 陣列應用|[a248](Contents/a248/a248.md)|[a248](Contents/a248/a248.c)||
+|a738: 最大公约数|[a738](Contents/a738/a738.md)|[a738](Contents/a738/a738.c)||
