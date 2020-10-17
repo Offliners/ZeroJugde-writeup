@@ -44,6 +44,7 @@
 |a693: 吞食天地|[a693](Contents/a693/a693.md)|[a693](Contents/a693/a693.c)||
 |a738: 最大公约数|[a738](Contents/a738/a738.md)|[a738](Contents/a738/a738.c)||
 |a740: 质因数之和|[a740](Contents/a740/a740.md)|[a740](Contents/a740/a740.c)||
+|b537: 分數運算-1 |[b537](Contents/b537/b537.md)|[b537](Contents/b537/b537.c)||
 |b558: 求數列第 n 項|[b558](Contents/b558/b558.md)|[b558](Contents/b558/b558.c)||
 |b970: 我不說髒話 (續)|[b970](Contents/b970/b970.md)|[b970](Contents/b970/b970.c)||
 |b971: 等差數列|[b971](Contents/b971/b971.md)|[b971](Contents/b971/b971.c)||
