@@ -11,8 +11,13 @@ int main(void)
 		int day;
 		
 		for(int i = 0; i < 17; i++)
+		{
 			if(pow(2, i) == temp)
+			{
 				day = i;
+				break;	
+			}	
+		}
 				
 		printf("%d\n", day);
 	}
