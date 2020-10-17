@@ -51,3 +51,4 @@
 |c420: Bert的三角形 (3)|[c420](Contents/c420/c420.md)|[c420](Contents/c420/c420.c)||
 |e908: 星期幾咧|[e908](Contents/e908/e908.md)|[e908](Contents/e908/e908.c)||
 |e926: 跳脫字元|[e926](Contents/e926/e926.md)|[e926](Contents/e926/e926.c)||
+|e948: 1. 基礎代謝率 (BMR Calculation)|[e948](Contents/e948/e948.md)|[e948](Contents/e948/e948.c)||
