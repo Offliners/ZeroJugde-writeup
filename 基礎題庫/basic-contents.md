@@ -53,3 +53,4 @@
 |e926: 跳脫字元|[e926](Contents/e926/e926.md)|[e926](Contents/e926/e926.c)||
 |e948: 1. 基礎代謝率 (BMR Calculation)|[e948](Contents/e948/e948.md)|[e948](Contents/e948/e948.c)||
 |e968: 2. 班級名單 (Student list)|[e968](Contents/e968/e968.md)|[e968](Contents/e968/e968.c)||
+|f043: 1. 小豪的回家作業 (Homework)|[f043](Contents/f043/f043.md)|[f043](Contents/f043/f043.c)||
