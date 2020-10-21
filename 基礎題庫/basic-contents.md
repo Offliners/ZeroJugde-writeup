@@ -53,6 +53,7 @@
 |b757: 頸美椰子樹|[b757](Contents/b757/b757.md)|[b757](Contents/b757/b757.c)||
 |b970: 我不說髒話 (續)|[b970](Contents/b970/b970.md)|[b970](Contents/b970/b970.c)||
 |b971: 等差數列|[b971](Contents/b971/b971.md)|[b971](Contents/b971/b971.c)||
+|c379: 成為出題者|[c379](Contents/c379/c379.md)|[c379](Contents/c379/c379.c)||
 |c418: Bert的三角形 (1)|[c418](Contents/c418/c418.md)|[c418](Contents/c418/c418.c)||
 |c419: Bert的三角形 (2)|[c419](Contents/c419/c419.md)|[c419](Contents/c419/c419.c)||
 |c420: Bert的三角形 (3)|[c420](Contents/c420/c420.md)|[c420](Contents/c420/c420.c)||
