@@ -40,6 +40,7 @@
 |a229: 括號匹配問題|[a229](Contents/a229/a229.md)|[a229](Contents/a229/a229.c)||
 |a244: 新手訓練 ~ for + if|[a244](Contents/a244/a244.md)|[a244](Contents/a244/a244.c)||
 |a248: 新手訓練 ~ 陣列應用|[a248](Contents/a248/a248.md)|[a248](Contents/a248/a248.c)||
+|a263: 日期差幾天|[a263](Contents/a263/a263.md)|[a263](Contents/a263/a263.c)||
 |a410: 解方程|[a410](Contents/a410/a410.md)|[a410](Contents/a410/a410.c)||
 |a647: 投資專家|[a647](Contents/a647/a647.md)|[a647](Contents/a647/a647.c)||
 |a693: 吞食天地|[a693](Contents/a693/a693.md)|[a693](Contents/a693/a693.c)||
