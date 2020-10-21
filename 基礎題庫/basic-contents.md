@@ -61,7 +61,7 @@
 |d050: 妳那裡現在幾點了？|[d050](Contents/d050/d050.md)|[d050](Contents/d050/d050.c)||
 |d051: 糟糕，我發燒了！|[d051](Contents/d051/d051.md)|[d051](Contents/d051/d051.c)||
 |d058: BASIC 的 SGN 函數|[d058](Contents/d058/d058.md)|[d058](Contents/d058/d058.c)||
-|d060: 還要等多久啊？ 函數|[d060](Contents/d060/d060.md)|[d060](Contents/d060/d060.c)||
+|d060: 還要等多久啊？|[d060](Contents/d060/d060.md)|[d060](Contents/d060/d060.c)||
 |d483: hello, world|[d483](Contents/d483/d483.md)|[d483](Contents/d483/d483.c)||
 |d485: 我愛偶數|[d485](Contents/d485/d485.md)|[d485](Contents/d485/d485.c)||
 |d490: 我也愛偶數|[d490](Contents/d490/d490.md)|[d490](Contents/d490/d490.c)||
