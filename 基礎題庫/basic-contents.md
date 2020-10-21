@@ -65,6 +65,7 @@
 |d063: 0 與 1|[d063](Contents/d063/d063.md)|[d063](Contents/d063/d063.c)||
 |d064: ㄑㄧˊ 數？|[d064](Contents/d064/d064.md)|[d064](Contents/d064/d064.c)||
 |d065: 三人行必有我師|[d065](Contents/d065/d065.md)|[d065](Contents/d065/d065.c)||
+|d066: 上學去吧！|[d066](Contents/d066/d066.md)|[d066](Contents/d066/d066.c)||
 |d483: hello, world|[d483](Contents/d483/d483.md)|[d483](Contents/d483/d483.c)||
 |d485: 我愛偶數|[d485](Contents/d485/d485.md)|[d485](Contents/d485/d485.c)||
 |d490: 我也愛偶數|[d490](Contents/d490/d490.md)|[d490](Contents/d490/d490.c)||
