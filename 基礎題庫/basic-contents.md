@@ -68,6 +68,7 @@
 |d066: 上學去吧！|[d066](Contents/d066/d066.md)|[d066](Contents/d066/d066.c)||
 |d067: 格瑞哥里的煩惱 (1 行版)|[d067](Contents/d067/d067.md)|[d067](Contents/d067/d067.c)||
 |d068: 該減肥了！|[d068](Contents/d068/d068.md)|[d068](Contents/d068/d068.c)||
+|d069: 格瑞哥里的煩惱 (t 行版)|[d069](Contents/d069/d069.md)|[d069](Contents/d069/d069.c)||
 |d483: hello, world|[d483](Contents/d483/d483.md)|[d483](Contents/d483/d483.c)||
 |d485: 我愛偶數|[d485](Contents/d485/d485.md)|[d485](Contents/d485/d485.c)||
 |d490: 我也愛偶數|[d490](Contents/d490/d490.md)|[d490](Contents/d490/d490.c)||
