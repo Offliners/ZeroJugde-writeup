@@ -75,6 +75,7 @@
 |d073: 分組報告|[d073](Contents/d073/d073.md)|[d073](Contents/d073/d073.c)||
 |d074: 電腦教室|[d074](Contents/d074/d074.md)|[d074](Contents/d074/d074.c)||
 |d086: 態度之重要的證明|[d086](Contents/d086/d086.md)|[d086](Contents/d086/d086.c)||
+|d460: 山六九之旅|[d460](Contents/d460/d460.md)|[d460](Contents/d460/d460.c)||
 |d483: hello, world|[d483](Contents/d483/d483.md)|[d483](Contents/d483/d483.c)||
 |d485: 我愛偶數|[d485](Contents/d485/d485.md)|[d485](Contents/d485/d485.c)||
 |d490: 我也愛偶數|[d490](Contents/d490/d490.md)|[d490](Contents/d490/d490.c)||
