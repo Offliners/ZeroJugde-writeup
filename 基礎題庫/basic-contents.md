@@ -70,6 +70,7 @@
 |d068: 該減肥了！|[d068](Contents/d068/d068.md)|[d068](Contents/d068/d068.c)||
 |d069: 格瑞哥里的煩惱 (t 行版)|[d069](Contents/d069/d069.md)|[d069](Contents/d069/d069.c)||
 |d070: 格瑞哥里的煩惱 (0 尾版)|[d070](Contents/d070/d070.md)|[d070](Contents/d070/d070.c)||
+|d071: 格瑞哥里的煩惱 (EOF 版)|[d071](Contents/d071/d071.md)|[d071](Contents/d071/d071.c)||
 |d483: hello, world|[d483](Contents/d483/d483.md)|[d483](Contents/d483/d483.c)||
 |d485: 我愛偶數|[d485](Contents/d485/d485.md)|[d485](Contents/d485/d485.c)||
 |d490: 我也愛偶數|[d490](Contents/d490/d490.md)|[d490](Contents/d490/d490.c)||
