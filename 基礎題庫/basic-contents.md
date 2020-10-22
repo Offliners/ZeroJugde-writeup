@@ -72,6 +72,7 @@
 |d070: 格瑞哥里的煩惱 (0 尾版)|[d070](Contents/d070/d070.md)|[d070](Contents/d070/d070.c)||
 |d071: 格瑞哥里的煩惱 (EOF 版)|[d071](Contents/d071/d071.md)|[d071](Contents/d071/d071.c)||
 |d072: 格瑞哥里的煩惱 (Case 版)|[d072](Contents/d072/d072.md)|[d072](Contents/d072/d072.c)||
+|d073: 分組報告|[d073](Contents/d073/d073.md)|[d073](Contents/d073/d073.c)||
 |d483: hello, world|[d483](Contents/d483/d483.md)|[d483](Contents/d483/d483.c)||
 |d485: 我愛偶數|[d485](Contents/d485/d485.md)|[d485](Contents/d485/d485.c)||
 |d490: 我也愛偶數|[d490](Contents/d490/d490.md)|[d490](Contents/d490/d490.c)||
