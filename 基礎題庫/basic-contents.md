@@ -79,6 +79,7 @@
 |d460: 山六九之旅|[d460](Contents/d460/d460.md)|[d460](Contents/d460/d460.c)||
 |d483: hello, world|[d483](Contents/d483/d483.md)|[d483](Contents/d483/d483.c)||
 |d485: 我愛偶數|[d485](Contents/d485/d485.md)|[d485](Contents/d485/d485.c)||
+|d489: 伏林的三角地|[d489](Contents/d489/d489.md)|[d489](Contents/d489/d489.c)||
 |d490: 我也愛偶數|[d490](Contents/d490/d490.md)|[d490](Contents/d490/d490.c)||
 |e470: 無窮級數之和(一)|[e470](Contents/e470/e470.md)|[e470](Contents/e470/e470.c)||
 |e908: 星期幾咧|[e908](Contents/e908/e908.md)|[e908](Contents/e908/e908.c)||
