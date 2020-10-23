@@ -81,6 +81,7 @@
 |d485: 我愛偶數|[d485](Contents/d485/d485.md)|[d485](Contents/d485/d485.c)||
 |d489: 伏林的三角地|[d489](Contents/d489/d489.md)|[d489](Contents/d489/d489.c)||
 |d490: 我也愛偶數|[d490](Contents/d490/d490.md)|[d490](Contents/d490/d490.c)||
+|d498: 我不說髒話|[d498](Contents/d498/d498.md)|[d498](Contents/d498/d498.c)||
 |e470: 無窮級數之和(一)|[e470](Contents/e470/e470.md)|[e470](Contents/e470/e470.c)||
 |e908: 星期幾咧|[e908](Contents/e908/e908.md)|[e908](Contents/e908/e908.c)||
 |e926: 跳脫字元|[e926](Contents/e926/e926.md)|[e926](Contents/e926/e926.c)||
