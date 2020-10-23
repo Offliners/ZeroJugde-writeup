@@ -7,5 +7,5 @@ int main(void)
 	while(scanf("%d", &num) != EOF)
 		printf("%d\n", num * num - num + 2);
 	
-	return 0;	
+	return 0;
 } 
