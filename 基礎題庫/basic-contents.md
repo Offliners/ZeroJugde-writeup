@@ -88,6 +88,7 @@
 |d532: 文文的求婚 (三)|[d532](Contents/d532/d532.md)|[d532](Contents/d532/d532.c)||
 |d559: 班號|[d559](Contents/d559/d559.md)|[d559](Contents/d559/d559.c)||
 |d587: 參貳壹真好吃|[d587](Contents/d587/d587.md)|[d587](Contents/d587/d587.c)||
+|d827: 買鉛筆|[d827](Contents/d827/d827.md)|[d827](Contents/d827/d827.c)||
 |e470: 無窮級數之和(一)|[e470](Contents/e470/e470.md)|[e470](Contents/e470/e470.c)||
 |e908: 星期幾咧|[e908](Contents/e908/e908.md)|[e908](Contents/e908/e908.c)||
 |e926: 跳脫字元|[e926](Contents/e926/e926.md)|[e926](Contents/e926/e926.c)||
