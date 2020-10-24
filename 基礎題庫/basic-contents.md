@@ -92,6 +92,7 @@
 |d827: 買鉛筆|[d827](Contents/d827/d827.md)|[d827](Contents/d827/d827.c)||
 |d984: 棄保效應|[d984](Contents/d984/d984.md)|[d984](Contents/d984/d984.c)||
 |e343: BMI 計算|[e343](Contents/e343/e343.md)|[e343](Contents/e343/e343.c)||
+|e357: 遞迴函數練習|[e357](Contents/e357/e357.md)|[e357](Contents/e357/e357.c)||
 |e470: 無窮級數之和(一)|[e470](Contents/e470/e470.md)|[e470](Contents/e470/e470.c)||
 |e908: 星期幾咧|[e908](Contents/e908/e908.md)|[e908](Contents/e908/e908.c)||
 |e926: 跳脫字元|[e926](Contents/e926/e926.md)|[e926](Contents/e926/e926.c)||
