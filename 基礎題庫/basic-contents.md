@@ -86,6 +86,7 @@
 |d507: 三角形的判斷|[d507](Contents/d507/d507.md)|[d507](Contents/d507/d507.c)||
 |d511: 小明的作業|[d511](Contents/d511/d511.md)|[d511](Contents/d511/d511.c)||
 |d532: 文文的求婚 (三)|[d532](Contents/d532/d532.md)|[d532](Contents/d532/d532.c)||
+|d559: 班號|[d559](Contents/d559/d559.md)|[d559](Contents/d559/d559.c)||
 |d587: 參貳壹真好吃|[d587](Contents/d587/d587.md)|[d587](Contents/d587/d587.c)||
 |e470: 無窮級數之和(一)|[e470](Contents/e470/e470.md)|[e470](Contents/e470/e470.c)||
 |e908: 星期幾咧|[e908](Contents/e908/e908.md)|[e908](Contents/e908/e908.c)||
