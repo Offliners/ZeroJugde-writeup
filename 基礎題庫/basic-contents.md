@@ -84,6 +84,7 @@
 |d490: 我也愛偶數|[d490](Contents/d490/d490.md)|[d490](Contents/d490/d490.c)||
 |d498: 我不說髒話|[d498](Contents/d498/d498.md)|[d498](Contents/d498/d498.c)||
 |d511: 小明的作業|[d511](Contents/d511/d511.md)|[d511](Contents/d511/d511.c)||
+|d532: 文文的求婚 (三)|[d532](Contents/d532/d532.md)|[d532](Contents/d532/d532.c)||
 |d587: 參貳壹真好吃|[d587](Contents/d587/d587.md)|[d587](Contents/d587/d587.c)||
 |e470: 無窮級數之和(一)|[e470](Contents/e470/e470.md)|[e470](Contents/e470/e470.c)||
 |e908: 星期幾咧|[e908](Contents/e908/e908.md)|[e908](Contents/e908/e908.c)||
