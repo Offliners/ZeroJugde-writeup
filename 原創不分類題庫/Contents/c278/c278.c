@@ -7,7 +7,7 @@ int data[100000];
 int cmp(const void *, const void *);
 
 int main(void)
-{	
+{
 	while(scanf("%d", &n) != EOF)
 	{
 		int sum = 0;
