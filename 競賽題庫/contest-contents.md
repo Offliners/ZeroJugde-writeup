@@ -6,5 +6,6 @@
 |a861: 1. Secure the Perimeter|[a861](Contents/a861/a861.md)|[a861](Contents/a861/a861.c)||
 |a862: 2. My Dear Friend VIR|[a862](Contents/a862/a862.md)|[a862](Contents/a862/a862.c)||
 |b004: 繩子上吃草的牛|[b004](Contents/b004/b004.md)|[b004](Contents/b004/b004.c)||
+|b112: 5. 高中運動會|[b112](Contents/b112/b112.md)|[b112](Contents/b112/b112.c)||
 |b898: 1. 畢氏定理|[b898](Contents/b898/b898.md)|[b898](Contents/b898/b898.c)||
 |c299: 1. 連號或不連號|[c299](Contents/c299/c299.md)|[c299](Contents/c299/c299.c)||
