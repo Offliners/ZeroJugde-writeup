@@ -14,5 +14,6 @@
 |b513: 判斷質數-商競103|[b513](Contents/b513/b513.md)|[b513](Contents/b513/b513.c)||
 |b514: 解二元一次聯立方程式之根-商競103|[b514](Contents/b514/b514.md)|[b514](Contents/b514/b514.c)||
 |b681: 1. 山洞探險|[b681](Contents/b681/b681.md)|[b681](Contents/b681/b681.c)||
+|b682: 2. 同學早安|[b682](Contents/b682/b682.md)|[b682](Contents/b682/b682.c)||
 |b898: 1. 畢氏定理|[b898](Contents/b898/b898.md)|[b898](Contents/b898/b898.c)||
 |c299: 1. 連號或不連號|[c299](Contents/c299/c299.md)|[c299](Contents/c299/c299.c)||
