@@ -3,6 +3,7 @@
 |Problems|Links|C|Python|
 |-|-|-|-|
 |a621: Powers of Two|[a621](Contents/a621/a621.md)|[a621](Contents/a621/a621.c)||
+|a623: 3. Combination|[a623](Contents/a623/a623.md)|[a623](Contents/a623/a623.c)||
 |a861: 1. Secure the Perimeter|[a861](Contents/a861/a861.md)|[a861](Contents/a861/a861.c)||
 |a862: 2. My Dear Friend VIR|[a862](Contents/a862/a862.md)|[a862](Contents/a862/a862.c)||
 |b004: 繩子上吃草的牛|[b004](Contents/b004/b004.md)|[b004](Contents/b004/b004.c)||
