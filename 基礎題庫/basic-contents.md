@@ -95,6 +95,7 @@
 |d559: 班號|[d559](Contents/d559/d559.md)|[d559](Contents/d559/d559.c)||
 |d587: 參貳壹真好吃|[d587](Contents/d587/d587.md)|[d587](Contents/d587/d587.c)||
 |d623: 反方陣|[d623](Contents/d623/d623.md)|[d623](Contents/d623/d623.c)||
+|d649: 數字三角形|[d649](Contents/d649/d649.md)|[d649](Contents/d649/d649.c)||
 |d693: 最小公倍數|[d693](Contents/d693/d693.md)|[d693](Contents/d693/d693.c)||
 |d827: 買鉛筆|[d827](Contents/d827/d827.md)|[d827](Contents/d827/d827.c)||
 |d984: 棄保效應|[d984](Contents/d984/d984.md)|[d984](Contents/d984/d984.c)||
