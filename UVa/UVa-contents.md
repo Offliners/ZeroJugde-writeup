@@ -9,3 +9,4 @@
 |c010: 10107 - What is the Median?|[c010](Contents/c010/c010.md)|[c010](Contents/c010/c010.c)||
 |c022: 10783 - Odd Sum|[c022](Contents/c022/c022.md)|[c022](Contents/c022/c022.c)||
 |c024: 10079 - Pizza Cutting|[c024](Contents/c024/c024.md)|[c024](Contents/c024/c024.c)||
+|d053: 10970 - Big Chocolate|[d053](Contents/d053/d053.md)|[d053](Contents/d053/d053.c)||
