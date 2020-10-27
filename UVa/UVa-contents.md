@@ -10,3 +10,4 @@
 |c022: 10783 - Odd Sum|[c022](Contents/c022/c022.md)|[c022](Contents/c022/c022.c)||
 |c024: 10079 - Pizza Cutting|[c024](Contents/c024/c024.md)|[c024](Contents/c024/c024.c)||
 |d053: 10970 - Big Chocolate|[d053](Contents/d053/d053.md)|[d053](Contents/d053/d053.c)||
+|d143: 11172 - Relational Operators|[d143](Contents/d143/d143.md)|[d143](Contents/d143/d143.c)||
