@@ -7,3 +7,4 @@
 |a466: 12289 - One-Two-Three|[a466](Contents/a466/a466.md)|[a466](Contents/a466/a466.c)||
 |c002: 10696 - f91|[c002](Contents/c002/c002.md)|[c002](Contents/c002/c002.c)||
 |c010: 10107 - What is the Median?|[c010](Contents/c010/c010.md)|[c010](Contents/c010/c010.c)||
+|c022: 10783 - Odd Sum|[c022](Contents/c022/c022.md)|[c022](Contents/c022/c022.c)||
