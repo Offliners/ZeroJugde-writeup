@@ -14,7 +14,6 @@
 |a015: 矩陣的翻轉|[a015](Contents/a015/a015.md)|[a015](Contents/a015/a015.c)||
 |a017: 五則運算|[a017](Contents/a017/a017.md)|[a017](Contents/a017/a017.c)||
 |a020: 身分證檢驗|[a020](Contents/a020/a020.md)|[a020](Contents/a020/a020.c)||
-|a021: 大數運算||||
 |a022: 迴文|[a022](Contents/a022/a022.md)|[a022](Contents/a022/a022.c)||
 |a024: 最大公因數(GCD)|[a024](Contents/a024/a024.md)|[a024](Contents/a024/a024.c)||
 |a034: 二進位制轉換|[a034](Contents/a034/a034.md)|[a034](Contents/a034/a034.c)||
@@ -35,8 +34,6 @@
 |a149: 乘乘樂|[a149](Contents/a149/a149.md)|[a149](Contents/a149/a149.c)||
 |a215: 明明愛數數|[a215](Contents/a215/a215.md)|[a215](Contents/a215/a215.c)||
 |a216: 數數愛明明|[a216](Contents/a216/a216.md)|[a216](Contents/a216/a216.c)||
-|a224: 明明愛明明||||
-|a225: 明明愛排列||||
 |a229: 括號匹配問題|[a229](Contents/a229/a229.md)|[a229](Contents/a229/a229.c)||
 |a244: 新手訓練 ~ for + if|[a244](Contents/a244/a244.md)|[a244](Contents/a244/a244.c)||
 |a248: 新手訓練 ~ 陣列應用|[a248](Contents/a248/a248.md)|[a248](Contents/a248/a248.c)||
