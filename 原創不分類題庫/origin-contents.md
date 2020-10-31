@@ -10,3 +10,4 @@
 |d046: 文文採西瓜|[d046](Contents/d046/d046.md)|[d046](Contents/d046/d046.c)||
 |d635: 幸運777？luck|[d635](Contents/d635/d635.md)|[d635](Contents/d635/d635.c)||
 |d709: 判断质数（一）|[d709](Contents/d709/d709.md)|[d709](Contents/d709/d709.c)||
+|d786: 三、平均值|[d786](Contents/d786/d786.md)|[d786](Contents/d786/d786.c)||
