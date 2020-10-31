@@ -8,7 +8,7 @@ int main(void)
 	{	
 		for(int i = 0; i < n; i++)
 		{
-			int sum = 0;
+			double sum = 0;
 			
 			scanf("%d", &t);
 			for(int j = 0; j < t; j++)
@@ -17,7 +17,7 @@ int main(void)
 				sum += num; 
 			}
 			
-			printf("%.2lf\n", (double)sum / t);		
+			printf("%.2lf\n", sum / t);		
 		}
 	}
 	
