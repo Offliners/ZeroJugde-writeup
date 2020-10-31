@@ -9,4 +9,5 @@
 |c290: APCS 2017-0304-1秘密差|[c290](Contents/c290/c290.md)|[c290](Contents/c290/c290.c)||
 |c294: APCS-2016-1029-1三角形辨別|[c294](Contents/c294/c294.md)|[c294](Contents/c294/c294.c)||
 |c461: apcs 邏輯運算子 (Logic Operators)|[c461](Contents/c461/c461.md)|[c461](Contents/c461/c461.c)||
+|e283: APCS 類似題 - 小崴的特殊編碼|[e283](Contents/e283/e283.md)|[e283](Contents/e283/e283.c)||
 |e286: 籃球比賽|[e286](Contents/e286/e286.md)|[e286](Contents/e286/e286.c)||
