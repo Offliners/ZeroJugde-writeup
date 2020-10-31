@@ -47,7 +47,7 @@
 |a740: 质因数之和|[a740](Contents/a740/a740.md)|[a740](Contents/a740/a740.c)||
 |a799: 正值國|[a799](Contents/a799/a799.md)|[a799](Contents/a799/a799.c)||
 |b294: 經濟大恐荒|[b294](Contents/b294/b294.md)|[b294](Contents/b294/b294.c)||
-|b347: [福州19中]众数|[b347](Contents/b347/b347.md)|[b347](Contents/b347/b347.c)||
+|b374: [福州19中]众数|[b374](Contents/b374/b374.md)|[b374](Contents/b374/b374.c)||
 |b537: 分數運算-1 |[b537](Contents/b537/b537.md)|[b537](Contents/b537/b537.c)||
 |b558: 求數列第 n 項|[b558](Contents/b558/b558.md)|[b558](Contents/b558/b558.c)||
 |b572: 忘了東西的傑克|[b572](Contents/b572/b572.md)|[b572](Contents/b572/b572.c)||
