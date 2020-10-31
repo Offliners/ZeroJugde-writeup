@@ -103,6 +103,7 @@
 |d693: 最小公倍數|[d693](Contents/d693/d693.md)|[d693](Contents/d693/d693.c)||
 |d827: 買鉛筆|[d827](Contents/d827/d827.md)|[d827](Contents/d827/d827.c)||
 |d984: 棄保效應|[d984](Contents/d984/d984.md)|[d984](Contents/d984/d984.c)||
+|e156: 良心題: 求和|[e156](Contents/e156/e156.md)|[e156](Contents/e156/e156.c)||
 |e343: BMI 計算|[e343](Contents/e343/e343.md)|[e343](Contents/e343/e343.c)||
 |e345: Add Digits - 面試題|[e345](Contents/e345/e345.md)|[e345](Contents/e345/e345.c)||
 |e357: 遞迴函數練習|[e357](Contents/e357/e357.md)|[e357](Contents/e357/e357.c)||
