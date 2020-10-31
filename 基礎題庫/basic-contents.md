@@ -34,6 +34,7 @@
 |a149: 乘乘樂|[a149](Contents/a149/a149.md)|[a149](Contents/a149/a149.c)||
 |a215: 明明愛數數|[a215](Contents/a215/a215.md)|[a215](Contents/a215/a215.c)||
 |a216: 數數愛明明|[a216](Contents/a216/a216.md)|[a216](Contents/a216/a216.c)||
+|a225: 明明愛排列|[a225](Contents/a225/a225.md)|[a225](Contents/a225/a225.c)||
 |a229: 括號匹配問題|[a229](Contents/a229/a229.md)|[a229](Contents/a229/a229.c)||
 |a244: 新手訓練 ~ for + if|[a244](Contents/a244/a244.md)|[a244](Contents/a244/a244.c)||
 |a248: 新手訓練 ~ 陣列應用|[a248](Contents/a248/a248.md)|[a248](Contents/a248/a248.c)||
