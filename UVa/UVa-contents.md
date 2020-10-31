@@ -4,6 +4,7 @@
 |-|-|-|-|
 |a011: 00494 - Kindergarten Counting Game|[a011](Contents/a011/a011.md)|[a011](Contents/a011/a011.c)||
 |a012: 10055 - Hashmat the Brave Warrior|[a012](Contents/a012/a012.md)|[a012](Contents/a012/a012.c)||
+|a111: 12149 - Feynman|[a111](Contents/a111/a111.md)|[a111](Contents/a111/a111.c)||
 |a135: 12250 - Language Detection|[a135](Contents/a135/a135.md)|[a135](Contents/a135/a135.c)||
 |a466: 12289 - One-Two-Three|[a466](Contents/a466/a466.md)|[a466](Contents/a466/a466.c)||
 |c002: 10696 - f91|[c002](Contents/c002/c002.md)|[c002](Contents/c002/c002.c)||
