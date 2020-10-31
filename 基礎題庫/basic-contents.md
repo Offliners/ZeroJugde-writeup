@@ -102,6 +102,7 @@
 |d984: 棄保效應|[d984](Contents/d984/d984.md)|[d984](Contents/d984/d984.c)||
 |e343: BMI 計算|[e343](Contents/e343/e343.md)|[e343](Contents/e343/e343.c)||
 |e357: 遞迴函數練習|[e357](Contents/e357/e357.md)|[e357](Contents/e357/e357.c)||
+|e456: Ten little Indians|[e456](Contents/e456/e456.md)|[e456](Contents/e456/e456.c)||
 |e470: 無窮級數之和(一)|[e470](Contents/e470/e470.md)|[e470](Contents/e470/e470.c)||
 |e700: 星座|[e700](Contents/e700/e700.md)|[e700](Contents/e700/e700.c)||
 |e908: 星期幾咧|[e908](Contents/e908/e908.md)|[e908](Contents/e908/e908.c)||
