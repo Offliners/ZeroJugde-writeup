@@ -20,6 +20,7 @@
 |d143: 11172 - Relational Operators|[d143](Contents/d143/d143.md)|[d143](Contents/d143/d143.c)||
 |d226: 10071 - Back to High School Physics|[d226](Contents/d226/d226.md)|[d226](Contents/d226/d226.c)||
 |d658: 11636 - Hello World!|[d658](Contents/d658/d658.md)|[d658](Contents/d658/d658.c)||
+|d669: 11677 - Alarm Clock|[d669](Contents/d669/d669.md)|[d669](Contents/d669/d669.c)||
 |d980: 11479 - Is this the easiest problem?|[d980](Contents/d980/d980.md)|[d980](Contents/d980/d980.c)||
 |e558: 01583 - Digit Generator|[e558](Contents/e558/e558.md)|[e558](Contents/e558/e558.c)||
 |e561: 00299 - Train Swapping|[e561](Contents/e561/e561.md)|[e561](Contents/e561/e561.c)||
