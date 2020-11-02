@@ -96,6 +96,7 @@
 |d511: 小明的作業|[d511](Contents/d511/d511.md)|[d511](Contents/d511/d511.c)||
 |d532: 文文的求婚 (三)|[d532](Contents/d532/d532.md)|[d532](Contents/d532/d532.c)||
 |d559: 班號|[d559](Contents/d559/d559.md)|[d559](Contents/d559/d559.c)||
+|d562: 山寨版磁力蜈蚣|[d562](Contents/d562/d562.md)|[d562](Contents/d562/d562.c)||
 |d583: 幼稚的企鵝|[d583](Contents/d583/d583.md)|[d583](Contents/d583/d583.c)||
 |d587: 參貳壹真好吃|[d587](Contents/d587/d587.md)|[d587](Contents/d587/d587.c)||
 |d623: 反方陣|[d623](Contents/d623/d623.md)|[d623](Contents/d623/d623.c)||
