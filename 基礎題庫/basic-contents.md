@@ -120,4 +120,5 @@
 |f035: 最佳隊名獎|[f035](Contents/f035/f035.md)|[f035](Contents/f035/f035.c)||
 |f043: 1. 小豪的回家作業 (Homework)|[f043](Contents/f043/f043.md)|[f043](Contents/f043/f043.c)||
 |f044: 2. 史萊姆生態區 (Slime)|[f044](Contents/f044/f044.md)|[f044](Contents/f044/f044.c)||
+|f045: 3. 身分驗證機制 (Verification)|[f045](Contents/f045/f045.md)|[f045](Contents/f045/f045.c)||
 |f345: 新手練習題—陣列|[f345](Contents/f345/f345.md)|[f345](Contents/f345/f345.c)||
