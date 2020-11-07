@@ -26,6 +26,7 @@
 |d226: 10071 - Back to High School Physics|[d226](Contents/d226/d226.md)|[d226](Contents/d226/d226.c)||
 |d318: 11185 - Ternary|[d318](Contents/d318/d318.md)|[d318](Contents/d318/d318.c)||
 |d658: 11636 - Hello World!|[d658](Contents/d658/d658.md)|[d658](Contents/d658/d658.c)||
+|d659: 11727 - Cost Cutting|[d659](Contents/d659/d659.md)|[d659](Contents/d659/d659.c)||
 |d669: 11677 - Alarm Clock|[d669](Contents/d669/d669.md)|[d669](Contents/d669/d669.c)||
 |d980: 11479 - Is this the easiest problem?|[d980](Contents/d980/d980.md)|[d980](Contents/d980/d980.c)||
 |e558: 01583 - Digit Generator|[e558](Contents/e558/e558.md)|[e558](Contents/e558/e558.c)||
