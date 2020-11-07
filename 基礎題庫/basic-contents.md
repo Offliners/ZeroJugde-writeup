@@ -61,6 +61,7 @@
 |c420: Bert的三角形 (3)|[c420](Contents/c420/c420.md)|[c420](Contents/c420/c420.c)||
 |c657: 最長連續字母|[c657](Contents/c657/c657.md)|[c657](Contents/c657/c657.c)||
 |c659: 連接詞|[c659](Contents/c659/c659.md)|[c659](Contents/c659/c659.c)||
+|c716: Johnny B. Goode|[c716](Contents/c716/c716.md)|[c716](Contents/c716/c716.c)||
 |c726: K-I-S-S-I-N-G (一行版)|[c726](Contents/c726/c726.md)|[c726](Contents/c726/c726.c)||
 |d010: 盈數、虧數和完全數|[d010](Contents/d010/d010.md)|[d010](Contents/d010/d010.c)||
 |d049: 中華民國萬歲！|[d049](Contents/d049/d049.md)|[d049](Contents/d049/d049.c)||
