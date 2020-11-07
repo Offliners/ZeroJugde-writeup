@@ -54,6 +54,7 @@
 |b558: 求數列第 n 項|[b558](Contents/b558/b558.md)|[b558](Contents/b558/b558.c)||
 |b572: 忘了東西的傑克|[b572](Contents/b572/b572.md)|[b572](Contents/b572/b572.c)||
 |b757: 頸美椰子樹|[b757](Contents/b757/b757.md)|[b757](Contents/b757/b757.c)||
+|b758: 牛仔(ㄗˇ)很忙|[b758](Contents/b758/b758.md)|[b758](Contents/b758/b758.c)||
 |b970: 我不說髒話 (續)|[b970](Contents/b970/b970.md)|[b970](Contents/b970/b970.c)||
 |b971: 等差數列|[b971](Contents/b971/b971.md)|[b971](Contents/b971/b971.c)||
 |c185: Hey Jude|[c185](Contents/c185/c185.md)|[c185](Contents/c185/c185.c)||
