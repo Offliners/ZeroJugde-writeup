@@ -67,6 +67,7 @@
 |c716: Johnny B. Goode|[c716](Contents/c716/c716.md)|[c716](Contents/c716/c716.c)||
 |c726: K-I-S-S-I-N-G (一行版)|[c726](Contents/c726/c726.md)|[c726](Contents/c726/c726.c)||
 |d010: 盈數、虧數和完全數|[d010](Contents/d010/d010.md)|[d010](Contents/d010/d010.c)||
+|d018: 字串讀取練習|[d018](Contents/d018/d018.md)|[d018](Contents/d018/d018.c)||
 |d049: 中華民國萬歲！|[d049](Contents/d049/d049.md)|[d049](Contents/d049/d049.c)||
 |d050: 妳那裡現在幾點了？|[d050](Contents/d050/d050.md)|[d050](Contents/d050/d050.c)||
 |d051: 糟糕，我發燒了！|[d051](Contents/d051/d051.md)|[d051](Contents/d051/d051.c)||
