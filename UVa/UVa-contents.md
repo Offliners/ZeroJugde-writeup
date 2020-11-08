@@ -26,6 +26,7 @@
 |d186: 11461 - Square Numbers|[d186](Contents/d186/d186.md)|[d186](Contents/d186/d186.c)||
 |d190: 11462 - Age Sort|[d190](Contents/d190/d190.md)|[d190](Contents/d190/d190.c)||
 |d226: 10071 - Back to High School Physics|[d226](Contents/d226/d226.md)|[d226](Contents/d226/d226.c)||
+|d235: 10929 - You can say 11|[d235](Contents/d235/d235.md)|[d235](Contents/d235/d235.c)||
 |d318: 11185 - Ternary|[d318](Contents/d318/d318.md)|[d318](Contents/d318/d318.c)||
 |d658: 11636 - Hello World!|[d658](Contents/d658/d658.md)|[d658](Contents/d658/d658.c)||
 |d659: 11727 - Cost Cutting|[d659](Contents/d659/d659.md)|[d659](Contents/d659/d659.c)||
