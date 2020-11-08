@@ -40,6 +40,7 @@
 |a244: 新手訓練 ~ for + if|[a244](Contents/a244/a244.md)|[a244](Contents/a244/a244.c)||
 |a248: 新手訓練 ~ 陣列應用|[a248](Contents/a248/a248.md)|[a248](Contents/a248/a248.c)||
 |a263: 日期差幾天|[a263](Contents/a263/a263.md)|[a263](Contents/a263/a263.c)||
+|a271: 彩色蘿蔔|[a271](Contents/a271/a271.md)|[a271](Contents/a271/a271.c)||
 |a410: 解方程|[a410](Contents/a410/a410.md)|[a410](Contents/a410/a410.c)||
 |a414: 位元運算之進位篇|[a414](Contents/a414/a414.md)|[a414](Contents/a414/a414.c)||
 |a647: 投資專家|[a647](Contents/a647/a647.md)|[a647](Contents/a647/a647.c)||
