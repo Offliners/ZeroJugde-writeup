@@ -28,6 +28,7 @@
 |d226: 10071 - Back to High School Physics|[d226](Contents/d226/d226.md)|[d226](Contents/d226/d226.c)||
 |d235: 10929 - You can say 11|[d235](Contents/d235/d235.md)|[d235](Contents/d235/d235.c)||
 |d318: 11185 - Ternary|[d318](Contents/d318/d318.md)|[d318](Contents/d318/d318.c)||
+|d442: 10591 - Happy Number|[d442](Contents/d442/d442.md)|[d442](Contents/d442/d442.c)||
 |d658: 11636 - Hello World!|[d658](Contents/d658/d658.md)|[d658](Contents/d658/d658.c)||
 |d659: 11727 - Cost Cutting|[d659](Contents/d659/d659.md)|[d659](Contents/d659/d659.c)||
 |d669: 11677 - Alarm Clock|[d669](Contents/d669/d669.md)|[d669](Contents/d669/d669.c)||
