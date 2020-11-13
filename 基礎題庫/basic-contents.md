@@ -60,6 +60,7 @@
 |b971: 等差數列|[b971](Contents/b971/b971.md)|[b971](Contents/b971/b971.c)||
 |c185: Hey Jude|[c185](Contents/c185/c185.md)|[c185](Contents/c185/c185.c)||
 |c379: 成為出題者|[c379](Contents/c379/c379.md)|[c379](Contents/c379/c379.c)||
+|c382: 加減乘除|[c382](Contents/c382/c382.md)|[c382](Contents/c382/c382.c)||
 |c418: Bert的三角形 (1)|[c418](Contents/c418/c418.md)|[c418](Contents/c418/c418.c)||
 |c419: Bert的三角形 (2)|[c419](Contents/c419/c419.md)|[c419](Contents/c419/c419.c)||
 |c420: Bert的三角形 (3)|[c420](Contents/c420/c420.md)|[c420](Contents/c420/c420.c)||
