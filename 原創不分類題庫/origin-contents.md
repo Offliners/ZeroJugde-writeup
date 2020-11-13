@@ -5,6 +5,7 @@
 |a144: 整數分拆|[a144](Contents/a144/a144.md)|[a144](Contents/a144/a144.c)||
 |a227: 三龍杯 -> 河內之塔|[a227](Contents/a227/a227.md)|[a227](Contents/a227/a227.c)||
 |a273: 小朋友下樓梯|[a273](Contents/a273/a273.md)|[a273](Contents/a273/a273.c)||
+|a699: 1、国王的烦恼(King)|[a699](Contents/a699/a699.md)|[a699](Contents/a699/a699.c)||
 |b428: 凱薩加密|[b428](Contents/b428/b428.md)|[b428](Contents/b428/b428.c)||
 |b676: 63萬勞工苦輪班不像人像機器|[b676](Contents/b676/b676.md)|[b676](Contents/b676/b676.c)||
 |b968: K-I-S-S-I-N-G|[b968](Contents/b968/b968.md)|[b968](Contents/b968/b968.c)||
