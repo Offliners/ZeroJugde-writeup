@@ -1,4 +1,4 @@
-## 競賽題庫目錄
+## 原創不分類題庫目錄
 
 |Problems|Links|C|Python|
 |-|-|-|-|
@@ -12,6 +12,7 @@
 |d046: 文文採西瓜|[d046](Contents/d046/d046.md)|[d046](Contents/d046/d046.c)||
 |d236: 畢氏的定理|[d236](Contents/d236/d236.md)|[d236](Contents/d236/d236.c)||
 |d323: 電腦-窮人的|[d323](Contents/d323/d323.md)|[d323](Contents/d323/d323.c)||
+|d481: 矩陣乘法|[d481](Contents/d481/d481.md)|[d481](Contents/d481/d481.c)||
 |d635: 幸運777？luck|[d635](Contents/d635/d635.md)|[d635](Contents/d635/d635.c)||
 |d709: 判断质数（一）|[d709](Contents/d709/d709.md)|[d709](Contents/d709/d709.c)||
 |d786: 三、平均值|[d786](Contents/d786/d786.md)|[d786](Contents/d786/d786.c)||
