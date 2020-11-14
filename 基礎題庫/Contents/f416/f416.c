@@ -27,17 +27,15 @@ int main(void)
 
 int KMP(char *pat, char *txt)
 {
-    int M = strlen(pat);
-    int N = strlen(txt);
-    int *lps = (int *)malloc(sizeof(int)*M);
-    int j = 0;
-
-    cal(pat, M, lps);
- 
-    int i = 0; 
-    int count = 0;
-    while (i < N)
-    {
+	int M = strlen(pat);
+	int N = strlen(txt);
+	int *lps = (int*)malloc(sizeof(int)*M);
+	int count = 0;
+	
+	cal(pat, M, lps);
+	
+	for(int i = 0, j = 0; i < N;)
+	{
 		if(pat[j] == txt[i])
 		{
 			j++;
@@ -47,48 +45,44 @@ int KMP(char *pat, char *txt)
 		if(j == M)
 		{
 			count++;
-			j = lps[j-1];
+			j = lps[j - 1];
 		}
-		
 		else if(i < N && pat[j] != txt[i])
 		{
-		
-			if (j != 0)
-				j = lps[j-1];
+			if(j)
+				j = lps[j - 1];
 			else
 				i++;
 		}
 	}
-	free(lps); 
-    
-    return count;
+	
+	free(lps);
+	
+	return count;
 }
- 
+
 void cal(char *pat, int M, int *lps)
 {
-    int len = 0; 
-    int i;
- 
-    lps[0] = 0; 
-    i = 1;
- 
-    while (i < M)
-    {
-		if (pat[i] == pat[len])
+	int len = 0;
+	
+	lps[0] = 0;
+	for(int i = 1; i < M;)
+	{
+		if(pat[i] == pat[len])
 		{
 			len++;
 			lps[i] = len;
 			i++;
 		}
-		else 
+		else
 		{
 			if(len)
 				len = lps[len-1];
-			else 
+			else
 			{
 				lps[i] = 0;
 				i++;
 			}
 		}
-    }
+	}
 }
