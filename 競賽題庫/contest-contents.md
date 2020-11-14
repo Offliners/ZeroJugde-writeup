@@ -16,5 +16,6 @@
 |b681: 1. 山洞探險|[b681](Contents/b681/b681.md)|[b681](Contents/b681/b681.c)||
 |b682: 2. 同學早安|[b682](Contents/b682/b682.md)|[b682](Contents/b682/b682.c)||
 |b753: P31以身分證投票之檢查|[b753](Contents/b753/b753.md)|[b753](Contents/b753/b753.c)||
+|b838: 104北二2.括號問題|[b838](Contents/b838/b838.md)|[b838](Contents/b838/b838.c)||
 |b898: 1. 畢氏定理|[b898](Contents/b898/b898.md)|[b898](Contents/b898/b898.c)||
 |c299: 1. 連號或不連號|[c299](Contents/c299/c299.md)|[c299](Contents/c299/c299.c)||
