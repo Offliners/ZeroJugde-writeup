@@ -65,6 +65,7 @@
 |c418: Bert的三角形 (1)|[c418](Contents/c418/c418.md)|[c418](Contents/c418/c418.c)||
 |c419: Bert的三角形 (2)|[c419](Contents/c419/c419.md)|[c419](Contents/c419/c419.c)||
 |c420: Bert的三角形 (3)|[c420](Contents/c420/c420.md)|[c420](Contents/c420/c420.c)||
+|c431: Sort ! Sort ! Sort !|[c431](Contents/c431/c431.md)|[c431](Contents/c431/c431.c)||
 |c657: 最長連續字母|[c657](Contents/c657/c657.md)|[c657](Contents/c657/c657.c)||
 |c659: 連接詞|[c659](Contents/c659/c659.md)|[c659](Contents/c659/c659.c)||
 |c716: Johnny B. Goode|[c716](Contents/c716/c716.md)|[c716](Contents/c716/c716.c)||
