@@ -5,7 +5,12 @@ problem
 ```C
 ```
   * Result :
-  
+
+## C++
+```C++
+```
+  * Result :
+
 ## Python
 ```python
 ```
