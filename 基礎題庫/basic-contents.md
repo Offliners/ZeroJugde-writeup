@@ -124,7 +124,7 @@
 |e345: Add Digits - 面試題|[e345](Contents/e345/e345.md)|[e345](Contents/e345/e345.c)||
 |e357: 遞迴函數練習|[e357](Contents/e357/e357.md)|[e357](Contents/e357/e357.c)||
 |e359: Xor 運算(簡單! ~ :))|[e359](Contents/e359/e359.md)|[e359](Contents/e359/e359.c)||
-|e417: 乘法~乘法~加法~|[e417](Contents/e417/e417.md)|[e417](Contents/e417/e417.c)||
+|e417: 乘法~ 乘法~ 加法~|[e417](Contents/e417/e417.md)|[e417](Contents/e417/e417.c)||
 |e456: Ten little Indians|[e456](Contents/e456/e456.md)|[e456](Contents/e456/e456.c)||
 |e470: 無窮級數之和(一)|[e470](Contents/e470/e470.md)|[e470](Contents/e470/e470.c)||
 |e700: 星座|[e700](Contents/e700/e700.md)|[e700](Contents/e700/e700.c)||
