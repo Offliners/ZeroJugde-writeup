@@ -1,22 +1,23 @@
 ## 原創/不分類題庫目錄
 
-|Problems|Links|C|Python|
-|-|-|-|-|
-|a144: 整數分拆|[a144](Contents/a144/a144.md)|[a144](Contents/a144/a144.c)||
-|a165: Magic number|[a165](Contents/a165/a165.md)|[a165](Contents/a165/a165.c)||
-|a227: 三龍杯 -> 河內之塔|[a227](Contents/a227/a227.md)|[a227](Contents/a227/a227.c)||
-|a273: 小朋友下樓梯|[a273](Contents/a273/a273.md)|[a273](Contents/a273/a273.c)||
-|a699: 1、国王的烦恼(King)|[a699](Contents/a699/a699.md)|[a699](Contents/a699/a699.c)||
-|b428: 凱薩加密|[b428](Contents/b428/b428.md)|[b428](Contents/b428/b428.c)||
-|b676: 63萬勞工苦輪班不像人像機器|[b676](Contents/b676/b676.md)|[b676](Contents/b676/b676.c)||
-|b968: K-I-S-S-I-N-G|[b968](Contents/b968/b968.md)|[b968](Contents/b968/b968.c)||
-|c278: 玩偶~ 玩偶~ 玩玩偶~|[c278](Contents/c278/c278.md)|[c278](Contents/c278/c278.c)||
-|c730: 一天一那吾|[c730](Contents/c730/c730.md)|[c730](Contents/c730/c730.c)||
-|d046: 文文採西瓜|[d046](Contents/d046/d046.md)|[d046](Contents/d046/d046.c)||
-|d236: 畢氏的定理|[d236](Contents/d236/d236.md)|[d236](Contents/d236/d236.c)||
-|d323: 電腦-窮人的|[d323](Contents/d323/d323.md)|[d323](Contents/d323/d323.c)||
-|d481: 矩陣乘法|[d481](Contents/d481/d481.md)|[d481](Contents/d481/d481.c)||
-|d635: 幸運777？luck|[d635](Contents/d635/d635.md)|[d635](Contents/d635/d635.c)||
-|d709: 判断质数（一）|[d709](Contents/d709/d709.md)|[d709](Contents/d709/d709.c)||
-|d786: 三、平均值|[d786](Contents/d786/d786.md)|[d786](Contents/d786/d786.c)||
+|Problems|Links|C|Python|C++|
+|-|-|-|-|-|
+|a144: 整數分拆|[a144](Contents/a144/a144.md)|[a144](Contents/a144/a144.c)|||
+|a165: Magic number|[a165](Contents/a165/a165.md)|[a165](Contents/a165/a165.c)|||
+|a227: 三龍杯 -> 河內之塔|[a227](Contents/a227/a227.md)|[a227](Contents/a227/a227.c)|||
+|a273: 小朋友下樓梯|[a273](Contents/a273/a273.md)|[a273](Contents/a273/a273.c)|||
+|a699: 1、国王的烦恼(King)|[a699](Contents/a699/a699.md)|[a699](Contents/a699/a699.c)|||
+|b428: 凱薩加密|[b428](Contents/b428/b428.md)|[b428](Contents/b428/b428.c)|||
+|b676: 63萬勞工苦輪班不像人像機器|[b676](Contents/b676/b676.md)|[b676](Contents/b676/b676.c)|||
+|b968: K-I-S-S-I-N-G|[b968](Contents/b968/b968.md)|[b968](Contents/b968/b968.c)|||
+|c278: 玩偶~ 玩偶~ 玩玩偶~|[c278](Contents/c278/c278.md)|[c278](Contents/c278/c278.c)|||
+|c730: 一天一那吾|[c730](Contents/c730/c730.md)|[c730](Contents/c730/c730.c)|||
+|d046: 文文採西瓜|[d046](Contents/d046/d046.md)|[d046](Contents/d046/d046.c)|||
+|d236: 畢氏的定理|[d236](Contents/d236/d236.md)|[d236](Contents/d236/d236.c)|||
+|d323: 電腦-窮人的|[d323](Contents/d323/d323.md)|[d323](Contents/d323/d323.c)|||
+|d481: 矩陣乘法|[d481](Contents/d481/d481.md)|[d481](Contents/d481/d481.c)|||
+|d635: 幸運777？luck|[d635](Contents/d635/d635.md)|[d635](Contents/d635/d635.c)|||
+|d709: 判断质数（一）|[d709](Contents/d709/d709.md)|[d709](Contents/d709/d709.c)|||
+|d786: 三、平均值|[d786](Contents/d786/d786.md)|[d786](Contents/d786/d786.c)|||
 |e473: 整數的位數|[e473](Contents/e473/e473.md)|[e473](Contents/e473/e473.c)||
+
