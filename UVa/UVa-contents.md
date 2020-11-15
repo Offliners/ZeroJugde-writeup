@@ -19,6 +19,7 @@
 |c022: 10783 - Odd Sum|[c022](Contents/c022/c022.md)|[c022](Contents/c022/c022.c)||
 |c024: 10079 - Pizza Cutting|[c024](Contents/c024/c024.md)|[c024](Contents/c024/c024.c)||
 |c054: 10082 - WERTYU|[c054](Contents/c054/c054.md)|[c054](Contents/c054/c054.c)||
+|c067: 00591 - Box of Bricks|[c067](Contents/c067/c067.md)|[c067](Contents/c067/c067.c)||
 |c222: 10469 - To Carry or not to Carry|[c222](Contents/c222/c222.md)|[c222](Contents/c222/c222.c)||
 |d053: 10970 - Big Chocolate|[d053](Contents/d053/d053.md)|[d053](Contents/d053/d053.c)||
 |d097: 10038 - Jolly Jumpers|[d097](Contents/d097/d097.md)|[d097](Contents/d097/d097.c)||
