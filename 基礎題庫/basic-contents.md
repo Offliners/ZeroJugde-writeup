@@ -137,4 +137,5 @@
 |f044: 2. 史萊姆生態區 (Slime)|[f044](Contents/f044/f044.md)|[f044](Contents/f044/f044.c)||
 |f045: 3. 身分驗證機制 (Verification)|[f045](Contents/f045/f045.md)|[f045](Contents/f045/f045.c)||
 |f345: 新手練習題—陣列|[f345](Contents/f345/f345.md)|[f345](Contents/f345/f345.c)||
+|f384: 次承的痘痘|[f384](Contents/f384/f384.md)|[f384](Contents/f384/f384.c)||
 |f416: 果然我的期中程設考搞錯了什麼|[f416](Contents/f416/f416.md)|[f416](Contents/f416/f416.c)||
