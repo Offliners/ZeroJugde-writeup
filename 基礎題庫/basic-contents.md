@@ -8,7 +8,7 @@
 |a004: 文文的求婚|[a004](Contents/a004/a004.md)|[a004](Contents/a004/a004.c)|[a004](Contents/a004/a004.py)|[a004](Contents/a004/a004.cpp)|
 |a005: Eva 的回家作業|[a005](Contents/a005/a005.md)|[a005](Contents/a005/a005.c)|[a005](Contents/a005/a005.py)||
 |a006: 一元二次方程式|[a006](Contents/a006/a006.md)|[a006](Contents/a006/a006.c)|[a006](Contents/a006/a006.py)||
-|a009: 解碼器|[a009](Contents/a009/a009.md)|[a009](Contents/a009/a009.c)|[a009](Contents/a009/a009.py)||
+|a009: 解碼器|[a009](Contents/a009/a009.md)|[a009](Contents/a009/a009.c)|[a009](Contents/a009/a009.py)|[a009](Contents/a009/a009.cpp)|
 |a010: 因數分解|[a010](Contents/a010/a010.md)|[a010](Contents/a010/a010.c)|||
 |a013: 羅馬數字|[a013](Contents/a013/a013.md)|[a013](Contents/a013/a013.c)|||
 |a015: 矩陣的翻轉|[a015](Contents/a015/a015.md)|[a015](Contents/a015/a015.c)|||
