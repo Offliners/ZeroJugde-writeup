@@ -105,7 +105,7 @@
 |d489: 伏林的三角地|[d489](Contents/d489/d489.md)|[d489](Contents/d489/d489.c)|||
 |d490: 我也愛偶數|[d490](Contents/d490/d490.md)|[d490](Contents/d490/d490.c)|||
 |d491: 我也愛偶數 (swap 版)|[d491](Contents/d491/d491.md)|[d491](Contents/d491/d491.c)|||
-|d498: 我不說髒話|[d498](Contents/d498/d498.md)|[d498](Contents/d498/d498.c)|||
+|d498: 我不說髒話|[d498](Contents/d498/d498.md)|[d498](Contents/d498/d498.c)|[d498](Contents/d498/d498.py)|[d498](Contents/d498/d498.cpp)|
 |d507: 三角形的判斷|[d507](Contents/d507/d507.md)|[d507](Contents/d507/d507.c)|||
 |d511: 小明的作業|[d511](Contents/d511/d511.md)|[d511](Contents/d511/d511.c)|||
 |d532: 文文的求婚 (三)|[d532](Contents/d532/d532.md)|[d532](Contents/d532/d532.c)|||
