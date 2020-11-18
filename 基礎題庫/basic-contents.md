@@ -130,7 +130,7 @@
 |e470: 無窮級數之和(一)|[e470](Contents/e470/e470.md)|[e470](Contents/e470/e470.c)|||
 |e700: 星座|[e700](Contents/e700/e700.md)|[e700](Contents/e700/e700.c)|||
 |e908: 星期幾咧|[e908](Contents/e908/e908.md)|[e908](Contents/e908/e908.c)|||
-|e926: 跳脫字元|[e926](Contents/e926/e926.md)|[e926](Contents/e926/e926.c)|||
+|e926: 跳脫字元|[e926](Contents/e926/e926.md)|[e926](Contents/e926/e926.c)|[e926](Contents/e926/e926.py)|[e926](Contents/e926/e926.cpp)|
 |e948: 1. 基礎代謝率 (BMR Calculation)|[e948](Contents/e948/e948.md)|[e948](Contents/e948/e948.c)|||
 |e968: 2. 班級名單 (Student list)|[e968](Contents/e968/e968.md)|[e968](Contents/e968/e968.c)|||
 |e976: Will You Make it?|[e976](Contents/e976/e976.md)|[e976](Contents/e976/e976.c)|||
