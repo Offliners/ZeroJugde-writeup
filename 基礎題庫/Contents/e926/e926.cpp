@@ -4,10 +4,10 @@ using namespace std;
 
 int main(void)
 {
-	cout << "|\'o\'|\n" << endl;
-	cout << "\\^_^/\n" << endl;
-	cout << "(\"o\")\n" << endl;
-	cout << "[-%-]\n" << endl;
+	cout << "|\'o\'|" << endl;
+	cout << "\\^_^/" << endl;
+	cout << "(\"o\")" << endl;
+	cout << "[-%-]" << endl;
 	
 	return 0;
 }
