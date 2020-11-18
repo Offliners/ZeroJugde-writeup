@@ -100,7 +100,7 @@
 |d299: 程式設計師的面試問題|[d299](Contents/d299/d299.md)|[d299](Contents/d299/d299.c)|||
 |d460: 山六九之旅|[d460](Contents/d460/d460.md)|[d460](Contents/d460/d460.c)|||
 |d461: 班際籃球賽|[d461](Contents/d461/d461.md)|[d461](Contents/d461/d461.c)|||
-|d483: hello, world|[d483](Contents/d483/d483.md)|[d483](Contents/d483/d483.c)|||
+|d483: hello, world|[d483](Contents/d483/d483.md)|[d483](Contents/d483/d483.c)|[d483](Contents/d483/d483.py)|[d483](Contents/d483/d483.cpp)|
 |d485: 我愛偶數|[d485](Contents/d485/d485.md)|[d485](Contents/d485/d485.c)|||
 |d489: 伏林的三角地|[d489](Contents/d489/d489.md)|[d489](Contents/d489/d489.c)|||
 |d490: 我也愛偶數|[d490](Contents/d490/d490.md)|[d490](Contents/d490/d490.c)|||
