@@ -80,7 +80,7 @@
 |d049: 中華民國萬歲！|[d049](Contents/d049/d049.md)|[d049](Contents/d049/d049.c)|||
 |d050: 妳那裡現在幾點了？|[d050](Contents/d050/d050.md)|[d050](Contents/d050/d050.c)|[d050](Contents/d050/d050.py)|[d050](Contents/d050/d050.cpp)|
 |d051: 糟糕，我發燒了！|[d051](Contents/d051/d051.md)|[d051](Contents/d051/d051.c)|||
-|d058: BASIC 的 SGN 函數|[d058](Contents/d058/d058.md)|[d058](Contents/d058/d058.c)|||
+|d058: BASIC 的 SGN 函數|[d058](Contents/d058/d058.md)|[d058](Contents/d058/d058.c)|[d058](Contents/d058/d058.py)|[d058](Contents/d058/d058.cpp)|
 |d060: 還要等多久啊？|[d060](Contents/d060/d060.md)|[d060](Contents/d060/d060.c)|||
 |d063: 0 與 1|[d063](Contents/d063/d063.md)|[d063](Contents/d063/d063.c)|||
 |d064: ㄑㄧˊ 數？|[d064](Contents/d064/d064.md)|[d064](Contents/d064/d064.c)|||
