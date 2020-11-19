@@ -60,7 +60,7 @@
 |b758: 牛仔(ㄗˇ)很忙|[b758](Contents/b758/b758.md)|[b758](Contents/b758/b758.c)|||
 |b923: stack 堆疊的模板題|[b923](Contents/b923/b923.md)|[b923](Contents/b923/b923.c)|||
 |b969: hello, everyone|[b969](Contents/b969/b969.md)||[b969](Contents/b969/b969.py)||
-|b970: 我不說髒話 (續)|[b970](Contents/b970/b970.md)|[b970](Contents/b970/b970.c)|||
+|b970: 我不說髒話 (續)|[b970](Contents/b970/b970.md)|[b970](Contents/b970/b970.c)|[b970](Contents/b970/b970.py)|[b970](Contents/b970/b970.cpp)|
 |b971: 等差數列|[b971](Contents/b971/b971.md)|[b971](Contents/b971/b971.c)|||
 |c185: Hey Jude|[c185](Contents/c185/c185.md)|[c185](Contents/c185/c185.c)|[c185](Contents/c185/c185.py)|[c185](Contents/c185/c185.cpp)|
 |c315: I, ROBOT 前傳|[c315](Contents/c315/c315.md)|[c315](Contents/c315/c315.c)|||
