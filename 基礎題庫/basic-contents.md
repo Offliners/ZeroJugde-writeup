@@ -135,7 +135,7 @@
 |e968: 2. 班級名單 (Student list)|[e968](Contents/e968/e968.md)|[e968](Contents/e968/e968.c)|||
 |e976: Will You Make it?|[e976](Contents/e976/e976.md)|[e976](Contents/e976/e976.c)|||
 |e995: string again!!|[e995](Contents/e995/e995.md)|[e995](Contents/e995/e995.c)|||
-|f035: 最佳隊名獎|[f035](Contents/f035/f035.md)|[f035](Contents/f035/f035.c)|||
+|f035: 最佳隊名獎|[f035](Contents/f035/f035.md)|[f035](Contents/f035/f035.c)|[f035](Contents/f035/f035.py)|[f035](Contents/f035/f035.cpp)|
 |f043: 1. 小豪的回家作業 (Homework)|[f043](Contents/f043/f043.md)|[f043](Contents/f043/f043.c)|||
 |f044: 2. 史萊姆生態區 (Slime)|[f044](Contents/f044/f044.md)|[f044](Contents/f044/f044.c)|||
 |f045: 3. 身分驗證機制 (Verification)|[f045](Contents/f045/f045.md)|[f045](Contents/f045/f045.c)|||
