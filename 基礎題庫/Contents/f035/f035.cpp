@@ -1,5 +1,3 @@
-## C++
-```C++
 #include<iostream>
 
 using namespace std;
@@ -18,5 +16,3 @@ int main(void)
 	
 	return 0;
 }
-```
- * Result : `AC (2ms, 328KB)`
