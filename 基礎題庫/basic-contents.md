@@ -62,7 +62,7 @@
 |b969: hello, everyone|[b969](Contents/b969/b969.md)||[b969](Contents/b969/b969.py)||
 |b970: 我不說髒話 (續)|[b970](Contents/b970/b970.md)|[b970](Contents/b970/b970.c)|||
 |b971: 等差數列|[b971](Contents/b971/b971.md)|[b971](Contents/b971/b971.c)|||
-|c185: Hey Jude|[c185](Contents/c185/c185.md)|[c185](Contents/c185/c185.c)|||
+|c185: Hey Jude|[c185](Contents/c185/c185.md)|[c185](Contents/c185/c185.c)|[c185](Contents/c185/c185.py)|[c185](Contents/c185/c185.cpp)|
 |c315: I, ROBOT 前傳|[c315](Contents/c315/c315.md)|[c315](Contents/c315/c315.c)|||
 |c317: 硬幣問題！前傳|[c317](Contents/c317/c317.md)|[c317](Contents/c317/c317.c)|||
 |c379: 成為出題者|[c379](Contents/c379/c379.md)|[c379](Contents/c379/c379.c)|||
