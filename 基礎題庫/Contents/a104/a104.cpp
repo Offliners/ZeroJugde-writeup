@@ -10,7 +10,7 @@ int main(void)
 	
 	while(cin >> n)
 	{
-		for(int i = 0 ;i < n; i++)
+		for(int i = 0; i < n; i++)
 			cin >> data[i];
 		
 		sort(data, data + n);
