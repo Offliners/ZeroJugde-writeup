@@ -21,7 +21,7 @@
 |a038: 數字翻轉|[a038](Contents/a038/a038.md)|[a038](Contents/a038/a038.c)|||
 |a040: 阿姆斯壯數|[a040](Contents/a040/a040.md)|[a040](Contents/a040/a040.c)|||
 |a042: 平面圓形切割|[a042](Contents/a042/a042.md)|[a042](Contents/a042/a042.c)|[a042](Contents/a042/a042.py)|[a042](Contents/a042/a042.cpp)|
-|a044: 空間切割|[a044](Contents/a044/a044.md)|[a044](Contents/a044/a044.c)|||
+|a044: 空間切割|[a044](Contents/a044/a044.md)|[a044](Contents/a044/a044.c)|[a044](Contents/a044/a044.py)|[a044](Contents/a044/a044.cpp)|
 |a053: Sagit's 計分程式|[a053](Contents/a053/a053.md)|[a053](Contents/a053/a053.c)|||
 |a054: 電話客服中心|[a054](Contents/a054/a054.md)|[a054](Contents/a054/a054.c)|||
 |a058: MOD3|[a058](Contents/a058/a058.md)|[a058](Contents/a058/a058.c)|||
