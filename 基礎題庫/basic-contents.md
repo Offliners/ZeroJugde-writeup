@@ -85,7 +85,7 @@
 |d063: 0 與 1|[d063](Contents/d063/d063.md)|[d063](Contents/d063/d063.c)|[d063](Contents/d063/d063.py)|[d063](Contents/d063/d063.cpp)|
 |d064: ㄑㄧˊ 數？|[d064](Contents/d064/d064.md)|[d064](Contents/d064/d064.c)|[d064](Contents/d064/d064.py)|[d064](Contents/d064/d064.cpp)|
 |d065: 三人行必有我師|[d065](Contents/d065/d065.md)|[d065](Contents/d065/d065.c)|[d065](Contents/d065/d065.py)|[d065](Contents/d065/d065.cpp)|
-|d066: 上學去吧！|[d066](Contents/d066/d066.md)|[d066](Contents/d066/d066.c)|||
+|d066: 上學去吧！|[d066](Contents/d066/d066.md)|[d066](Contents/d066/d066.c)|[d066](Contents/d066/d066.py)|[d066](Contents/d066/d066.cpp)|
 |d067: 格瑞哥里的煩惱 (1 行版)|[d067](Contents/d067/d067.md)|[d067](Contents/d067/d067.c)|||
 |d068: 該減肥了！|[d068](Contents/d068/d068.md)|[d068](Contents/d068/d068.c)|||
 |d069: 格瑞哥里的煩惱 (t 行版)|[d069](Contents/d069/d069.md)|[d069](Contents/d069/d069.c)|||
