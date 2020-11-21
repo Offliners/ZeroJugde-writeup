@@ -136,7 +136,7 @@
 |e926: 跳脫字元|[e926](Contents/e926/e926.md)|[e926](Contents/e926/e926.c)|[e926](Contents/e926/e926.py)|[e926](Contents/e926/e926.cpp)|
 |e948: 1. 基礎代謝率 (BMR Calculation)|[e948](Contents/e948/e948.md)|[e948](Contents/e948/e948.c)|||
 |e968: 2. 班級名單 (Student list)|[e968](Contents/e968/e968.md)|[e968](Contents/e968/e968.c)|||
-|e976: Will You Make it?|[e976](Contents/e976/e976.md)|[e976](Contents/e976/e976.c)|||
+|e976: Will You Make it?|[e976](Contents/e976/e976.md)|[e976](Contents/e976/e976.c)|[e976](Contents/e976/e976.py)|[e976](Contents/e976/e976.cpp)|
 |e995: string again!!|[e995](Contents/e995/e995.md)|[e995](Contents/e995/e995.c)|||
 |f035: 最佳隊名獎|[f035](Contents/f035/f035.md)|[f035](Contents/f035/f035.c)|[f035](Contents/f035/f035.py)|[f035](Contents/f035/f035.cpp)|
 |f043: 1. 小豪的回家作業 (Homework)|[f043](Contents/f043/f043.md)|[f043](Contents/f043/f043.c)|||
