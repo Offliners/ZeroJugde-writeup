@@ -38,7 +38,7 @@
 |a224: 明明愛明明|[a224](Contents/a224/a224.md)|[a224](Contents/a224/a224.c)|||
 |a225: 明明愛排列|[a225](Contents/a225/a225.md)|[a225](Contents/a225/a225.c)|||
 |a229: 括號匹配問題|[a229](Contents/a229/a229.md)|[a229](Contents/a229/a229.c)|||
-|a244: 新手訓練 ~ for + if|[a244](Contents/a244/a244.md)|[a244](Contents/a244/a244.c)|||
+|a244: 新手訓練 ~ for + if|[a244](Contents/a244/a244.md)|[a244](Contents/a244/a244.c)|[a244](Contents/a244/a244.py)|[a244](Contents/a244/a244.cpp)|
 |a248: 新手訓練 ~ 陣列應用|[a248](Contents/a248/a248.md)|[a248](Contents/a248/a248.c)|||
 |a263: 日期差幾天|[a263](Contents/a263/a263.md)|[a263](Contents/a263/a263.c)|||
 |a271: 彩色蘿蔔|[a271](Contents/a271/a271.md)|[a271](Contents/a271/a271.c)|||
