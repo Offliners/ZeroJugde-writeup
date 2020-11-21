@@ -123,7 +123,7 @@
 |d984: 棄保效應|[d984](Contents/d984/d984.md)|[d984](Contents/d984/d984.c)|||
 |d985: Gran Turismo 5|[d985](Contents/d985/d985.md)|[d985](Contents/d985/d985.c)|||
 |e156: 良心題: 求和|[e156](Contents/e156/e156.md)|[e156](Contents/e156/e156.c)|||
-|e343: BMI 計算|[e343](Contents/e343/e343.md)|[e343](Contents/e343/e343.c)|||
+|e343: BMI 計算|[e343](Contents/e343/e343.md)|[e343](Contents/e343/e343.c)|[e343](Contents/e343/e343.py)|[e343](Contents/e343/e343.cpp)|
 |e345: Add Digits - 面試題|[e345](Contents/e345/e345.md)|[e345](Contents/e345/e345.c)|||
 |e357: 遞迴函數練習|[e357](Contents/e357/e357.md)|[e357](Contents/e357/e357.c)|||
 |e359: Xor 運算(簡單! ~ :))|[e359](Contents/e359/e359.md)|[e359](Contents/e359/e359.c)|||
