@@ -16,7 +16,7 @@
 |a020: 身分證檢驗|[a020](Contents/a020/a020.md)|[a020](Contents/a020/a020.c)|||
 |a021: 大數運算|[a021](Contents/a021/a021.md)||[a021](Contents/a021/a021.py)||
 |a022: 迴文|[a022](Contents/a022/a022.md)|[a022](Contents/a022/a022.c)|||
-|a024: 最大公因數(GCD)|[a024](Contents/a024/a024.md)|[a024](Contents/a024/a024.c)|||
+|a024: 最大公因數(GCD)|[a024](Contents/a024/a024.md)|[a024](Contents/a024/a024.c)|[a024](Contents/a024/a024.py)|[a024](Contents/a024/a024.cpp)|
 |a034: 二進位制轉換|[a034](Contents/a034/a034.md)|[a034](Contents/a034/a034.c)|||
 |a038: 數字翻轉|[a038](Contents/a038/a038.md)|[a038](Contents/a038/a038.c)|||
 |a040: 阿姆斯壯數|[a040](Contents/a040/a040.md)|[a040](Contents/a040/a040.c)|||
