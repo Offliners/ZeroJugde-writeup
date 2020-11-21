@@ -34,7 +34,7 @@
 |a148: You Cannot Pass?!|[a148](Contents/a148/a148.md)|[a148](Contents/a148/a148.c)|||
 |a149: 乘乘樂|[a149](Contents/a149/a149.md)|[a149](Contents/a149/a149.c)|||
 |a215: 明明愛數數|[a215](Contents/a215/a215.md)|[a215](Contents/a215/a215.c)|[a215](Contents/a215/a215.py)|[a215](Contents/a215/a215.cpp)|
-|a216: 數數愛明明|[a216](Contents/a216/a216.md)|[a216](Contents/a216/a216.c)|||
+|a216: 數數愛明明|[a216](Contents/a216/a216.md)|[a216](Contents/a216/a216.c)|[a216](Contents/a216/a216.py)|[a216](Contents/a216/a216.cpp)|
 |a224: 明明愛明明|[a224](Contents/a224/a224.md)|[a224](Contents/a224/a224.c)|||
 |a225: 明明愛排列|[a225](Contents/a225/a225.md)|[a225](Contents/a225/a225.c)|||
 |a229: 括號匹配問題|[a229](Contents/a229/a229.md)|[a229](Contents/a229/a229.c)|||
