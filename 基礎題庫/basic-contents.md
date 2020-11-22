@@ -49,7 +49,7 @@
 |a693: 吞食天地|[a693](Contents/a693/a693.md)|[a693](Contents/a693/a693.c)|||
 |a738: 最大公约数|[a738](Contents/a738/a738.md)|[a738](Contents/a738/a738.c)|||
 |a740: 质因数之和|[a740](Contents/a740/a740.md)|[a740](Contents/a740/a740.c)|||
-|a799: 正值國|[a799](Contents/a799/a799.md)|[a799](Contents/a799/a799.c)|||
+|a799: 正值國|[a799](Contents/a799/a799.md)|[a799](Contents/a799/a799.c)|[a799](Contents/a799/a799.py)|[a799](Contents/a799/a799.cpp)|
 |b294: 經濟大恐荒|[b294](Contents/b294/b294.md)|[b294](Contents/b294/b294.c)|||
 |b373: [福州19中]车厢重组|[b373](Contents/b373/b373.md)|[b373](Contents/b373/b373.c)|||
 |b374: [福州19中]众数|[b374](Contents/b374/b374.md)|[b374](Contents/b374/b374.c)|||
