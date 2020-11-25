@@ -11,7 +11,7 @@
 |b676: 63萬勞工苦輪班不像人像機器|[b676](Contents/b676/b676.md)|[b676](Contents/b676/b676.c)|[b676](Contents/b676/b676.py)|[b676](Contents/b676/b676.cpp)|
 |b968: K-I-S-S-I-N-G|[b968](Contents/b968/b968.md)|[b968](Contents/b968/b968.c)|[b968](Contents/b968/b968.py)|[b968](Contents/b968/b968.cpp)|
 |c278: 玩偶~ 玩偶~ 玩玩偶~|[c278](Contents/c278/c278.md)|[c278](Contents/c278/c278.c)|||
-|c730: 一天一那吾|[c730](Contents/c730/c730.md)|[c730](Contents/c730/c730.c)|||
+|c730: 一天一那吾|[c730](Contents/c730/c730.md)|[c730](Contents/c730/c730.c)|[c730](Contents/c730/c730.py)|[c730](Contents/c730/c730.cpp)|
 |d046: 文文採西瓜|[d046](Contents/d046/d046.md)|[d046](Contents/d046/d046.c)|||
 |d236: 畢氏的定理|[d236](Contents/d236/d236.md)|[d236](Contents/d236/d236.c)|||
 |d323: 電腦-窮人的|[d323](Contents/d323/d323.md)|[d323](Contents/d323/d323.c)|||
