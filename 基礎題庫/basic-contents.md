@@ -125,7 +125,7 @@
 |e156: 良心題: 求和|[e156](Contents/e156/e156.md)|[e156](Contents/e156/e156.c)|||
 |e343: BMI 計算|[e343](Contents/e343/e343.md)|[e343](Contents/e343/e343.c)|[e343](Contents/e343/e343.py)|[e343](Contents/e343/e343.cpp)|
 |e345: Add Digits - 面試題|[e345](Contents/e345/e345.md)|[e345](Contents/e345/e345.c)|||
-|e357: 遞迴函數練習|[e357](Contents/e357/e357.md)|[e357](Contents/e357/e357.c)|||
+|e357: 遞迴函數練習|[e357](Contents/e357/e357.md)|[e357](Contents/e357/e357.c)|[e357](Contents/e357/e357.py)|[e357](Contents/e357/e357.cpp)|
 |e359: Xor 運算(簡單! ~ :))|[e359](Contents/e359/e359.md)|[e359](Contents/e359/e359.c)|||
 |e417: 乘法~ 乘法~ 加法~|[e417](Contents/e417/e417.md)|[e417](Contents/e417/e417.c)|||
 |e456: Ten little Indians|[e456](Contents/e456/e456.md)|[e456](Contents/e456/e456.c)|||
