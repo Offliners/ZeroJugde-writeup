@@ -45,6 +45,7 @@
 |a410: 解方程|[a410](Contents/a410/a410.md)|[a410](Contents/a410/a410.c)|||
 |a414: 位元運算之進位篇|[a414](Contents/a414/a414.md)|[a414](Contents/a414/a414.c)|||
 |a524: 手機之謎|[a524](Contents/a524/a524.md)|[a524](Contents/a524/a524.c)|||
+|a528: 大數排序|[a528](Contents/a528/a528.md)||[a528](Contents/a528/a528.py)||
 |a647: 投資專家|[a647](Contents/a647/a647.md)|[a647](Contents/a647/a647.c)|||
 |a693: 吞食天地|[a693](Contents/a693/a693.md)|[a693](Contents/a693/a693.c)|||
 |a738: 最大公约数|[a738](Contents/a738/a738.md)|[a738](Contents/a738/a738.c)|||
