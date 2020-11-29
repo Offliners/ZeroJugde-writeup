@@ -14,7 +14,7 @@
 |c730: 一天一那吾|[c730](Contents/c730/c730.md)|[c730](Contents/c730/c730.c)|[c730](Contents/c730/c730.py)|[c730](Contents/c730/c730.cpp)|
 |d046: 文文採西瓜|[d046](Contents/d046/d046.md)|[d046](Contents/d046/d046.c)|||
 |d236: 畢氏的定理|[d236](Contents/d236/d236.md)|[d236](Contents/d236/d236.c)|||
-|d323: 電腦-窮人的|[d323](Contents/d323/d323.md)|[d323](Contents/d323/d323.c)|||
+|d323: 電腦-窮人的|[d323](Contents/d323/d323.md)|[d323](Contents/d323/d323.c)|[d323](Contents/d323/d323.py)|[d323](Contents/d323/d323.cpp)|
 |d481: 矩陣乘法|[d481](Contents/d481/d481.md)|[d481](Contents/d481/d481.c)|||
 |d635: 幸運777？luck|[d635](Contents/d635/d635.md)|[d635](Contents/d635/d635.c)|||
 |d709: 判断质数（一）|[d709](Contents/d709/d709.md)|[d709](Contents/d709/d709.c)|||
