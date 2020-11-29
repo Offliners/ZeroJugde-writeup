@@ -95,7 +95,7 @@
 |d073: 分組報告|[d073](Contents/d073/d073.md)|[d073](Contents/d073/d073.c)|||
 |d074: 電腦教室|[d074](Contents/d074/d074.md)|[d074](Contents/d074/d074.c)|||
 |d086: 態度之重要的證明|[d086](Contents/d086/d086.md)|[d086](Contents/d086/d086.c)|||
-|d122: Oh! My Zero!!|[d122](Contents/d122/d122.md)|[d122](Contents/d122/d122.c)|||
+|d122: Oh! My Zero!!|[d122](Contents/d122/d122.md)|[d122](Contents/d122/d122.c)|[d122](Contents/d122/d122.py)|[d122](Contents/d122/d122.cpp)|
 |d124: 3的倍数|[d124](Contents/d124/d124.md)|[d124](Contents/d124/d124.c)|||
 |d212: 東東爬階梯|[d212](Contents/d212/d212.md)|[d212](Contents/d212/d212.c)|||
 |d277: 矩形对角线|[d277](Contents/d277/d277.md)|[d277](Contents/d277/d277.c)|||
