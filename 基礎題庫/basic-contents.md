@@ -18,7 +18,7 @@
 |a022: 迴文|[a022](Contents/a022/a022.md)|[a022](Contents/a022/a022.c)|||
 |a024: 最大公因數(GCD)|[a024](Contents/a024/a024.md)|[a024](Contents/a024/a024.c)|[a024](Contents/a024/a024.py)|[a024](Contents/a024/a024.cpp)|
 |a034: 二進位制轉換|[a034](Contents/a034/a034.md)|[a034](Contents/a034/a034.c)|||
-|a038: 數字翻轉|[a038](Contents/a038/a038.md)|[a038](Contents/a038/a038.c)|||
+|a038: 數字翻轉|[a038](Contents/a038/a038.md)|[a038](Contents/a038/a038.c)|[a038](Contents/a038/a038.py)|[a038](Contents/a038/a038.cpp)|
 |a040: 阿姆斯壯數|[a040](Contents/a040/a040.md)|[a040](Contents/a040/a040.c)|||
 |a042: 平面圓形切割|[a042](Contents/a042/a042.md)|[a042](Contents/a042/a042.c)|[a042](Contents/a042/a042.py)|[a042](Contents/a042/a042.cpp)|
 |a044: 空間切割|[a044](Contents/a044/a044.md)|[a044](Contents/a044/a044.c)|[a044](Contents/a044/a044.py)|[a044](Contents/a044/a044.cpp)|
