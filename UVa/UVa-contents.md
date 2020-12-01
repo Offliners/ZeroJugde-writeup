@@ -3,7 +3,7 @@
 |Problems|Links|C|Python|C++|
 |-|-|-|-|-|
 |a011: 00494 - Kindergarten Counting Game|[a011](Contents/a011/a011.md)|[a011](Contents/a011/a011.c)|||
-|a012: 10055 - Hashmat the Brave Warrior|[a012](Contents/a012/a012.md)|[a012](Contents/a012/a012.c)|||
+|a012: 10055 - Hashmat the Brave Warrior|[a012](Contents/a012/a012.md)|[a012](Contents/a012/a012.c)|[a012](Contents/a012/a012.py)|[a012](Contents/a012/a012.cpp)|
 |a111: 12149 - Feynman|[a111](Contents/a111/a111.md)|[a111](Contents/a111/a111.c)|||
 |a132: 10931 - Parity|[a132](Contents/a132/a132.md)|[a132](Contents/a132/a132.c)|||
 |a135: 12250 - Language Detection|[a135](Contents/a135/a135.md)|[a135](Contents/a135/a135.c)|||
