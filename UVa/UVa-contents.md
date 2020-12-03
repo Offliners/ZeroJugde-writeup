@@ -11,7 +11,7 @@
 |a518: 12468 - Zapping|[a518](Contents/a518/a518.md)|[a518](Contents/a518/a518.c)|||
 |a539: 10327 - Flip Sort|[a539](Contents/a539/a539.md)|[a539](Contents/a539/a539.c)|||
 |a737: 10041 - Vito's family|[a737](Contents/a737/a737.md)|[a737](Contents/a737/a737.c)|||
-|c002: 10696 - f91|[c002](Contents/c002/c002.md)|[c002](Contents/c002/c002.c)|||
+|c002: 10696 - f91|[c002](Contents/c002/c002.md)|[c002](Contents/c002/c002.c)|[c002](Contents/c002/c002.py)|[c002](Contents/c002/c002.cpp)|
 |c004: 10812 - Beat the Spread!|[c004](Contents/c004/c004.md)|[c004](Contents/c004/c004.c)|||
 |c005: 10300 - Ecological Premium|[c005](Contents/c005/c005.md)|[c005](Contents/c005/c005.c)|||
 |c006: 10550 - Combination Lock|[c006](Contents/c006/c006.md)|[c006](Contents/c006/c006.c)|[c006](Contents/c006/c006.py)|[c006](Contents/c006/c006.cpp)|
