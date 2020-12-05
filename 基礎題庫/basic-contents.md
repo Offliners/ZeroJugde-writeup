@@ -56,7 +56,7 @@
 |b373: [福州19中]车厢重组|[b373](Contents/b373/b373.md)|[b373](Contents/b373/b373.c)|||
 |b374: [福州19中]众数|[b374](Contents/b374/b374.md)|[b374](Contents/b374/b374.c)|||
 |b537: 分數運算-1 |[b537](Contents/b537/b537.md)|[b537](Contents/b537/b537.c)|||
-|b558: 求數列第 n 項|[b558](Contents/b558/b558.md)|[b558](Contents/b558/b558.c)|||
+|b558: 求數列第 n 項|[b558](Contents/b558/b558.md)|[b558](Contents/b558/b558.c)|[b558](Contents/b558/b558.py)|[b558](Contents/b558/b558.cpp)|
 |b572: 忘了東西的傑克|[b572](Contents/b572/b572.md)|[b572](Contents/b572/b572.c)|||
 |b757: 頸美椰子樹|[b757](Contents/b757/b757.md)|[b757](Contents/b757/b757.c)|[b757](Contents/b757/b757.py)|[b757](Contents/b757/b757.cpp)|
 |b758: 牛仔(ㄗˇ)很忙|[b758](Contents/b758/b758.md)|[b758](Contents/b758/b758.c)|[b758](Contents/b758/b758.py)|[b758](Contents/b758/b758.cpp)|
