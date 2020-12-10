@@ -33,7 +33,7 @@
 |d235: 10929 - You can say 11|[d235](Contents/d235/d235.md)|[d235](Contents/d235/d235.c)|||
 |d255: 11417 - GCD|[d255](Contents/d255/d255.md)|[d255](Contents/d255/d255.c)|[d255](Contents/d255/d255.py)|[d255](Contents/d255/d255.cpp)|
 |d318: 11185 - Ternary|[d318](Contents/d318/d318.md)|[d318](Contents/d318/d318.c)|||
-|d442: 10591 - Happy Number|[d442](Contents/d442/d442.md)|[d442](Contents/d442/d442.c)|||
+|d442: 10591 - Happy Number|[d442](Contents/d442/d442.md)|[d442](Contents/d442/d442.c)|[d442](Contents/d442/d442.py)|[d442](Contents/d442/d442.cpp)|
 |d658: 11636 - Hello World!|[d658](Contents/d658/d658.md)|[d658](Contents/d658/d658.c)|||
 |d659: 11727 - Cost Cutting|[d659](Contents/d659/d659.md)|[d659](Contents/d659/d659.c)|||
 |d660: 11764 - Jumping Mario|[d660](Contents/d660/d660.md)|[d660](Contents/d660/d660.c)|||
