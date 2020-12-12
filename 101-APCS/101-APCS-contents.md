@@ -6,7 +6,7 @@
 |a453: TOI2010 第一題：一元二次方程式|[a453](Contents/a453/a453.md)|[a453](Contents/a453/a453.c)|||
 |b130: NOIP2006 1.明明的随机数|[b130](Contents/b130/b130.md)|[b130](Contents/b130/b130.c)|||
 |b138: NOIP2005 1.陶陶摘苹果|[b138](Contents/b138/b138.md)|[b138](Contents/b138/b138.c)|||
-|b964: 第 1 題 成績指標|[b964](Contents/b964/b964.md)|[b964](Contents/b964/b964.c)|||
+|b964: 第 1 題 成績指標|[b964](Contents/b964/b964.md)|[b964](Contents/b964/b964.c)|[b964](Contents/b964/b964.py)|[b964](Contents/b964/b964.cpp)|
 |b966: 第 3 題 線段覆蓋長度|[b966](Contents/b966/b966.md)|[b966](Contents/b966/b966.c)|[b966](Contents/b966/b966.py)|[b966](Contents/b966/b966.cpp)|
 |c290: APCS 2017-0304-1秘密差|[c290](Contents/c290/c290.md)|[c290](Contents/c290/c290.c)|||
 |c294: APCS-2016-1029-1三角形辨別|[c294](Contents/c294/c294.md)|[c294](Contents/c294/c294.c)|[c294](Contents/c294/c294.py)|[c294](Contents/c294/c294.cpp)|
