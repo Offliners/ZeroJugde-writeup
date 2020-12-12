@@ -28,11 +28,11 @@ int cmp(const void *a, const void *b)
 void whichTri(int a, int b, int c)
 {
 	if(a + b <= c)
-			printf("No\n");
-		else if(a * a + b * b == c * c)
-			printf("Right\n");
-		else if(a * a + b * b < c * c)
-			printf("Obtuse\n");
-		else
-			printf("Acute\n");
+		printf("No\n");
+	else if(a * a + b * b == c * c)
+		printf("Right\n");
+	else if(a * a + b * b < c * c)
+		printf("Obtuse\n");
+	else
+		printf("Acute\n");
 }
