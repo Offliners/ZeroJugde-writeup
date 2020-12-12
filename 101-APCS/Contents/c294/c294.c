@@ -2,6 +2,7 @@
 #include<stdlib.h>
 
 int cmp(const void *, const void *);
+void whichTri(int, int, int);
 
 int main(void)
 {
@@ -13,14 +14,7 @@ int main(void)
 		
 		printf("%d %d %d\n", sides[0], sides[1], sides[2]);
 		
-		if(sides[0] + sides[1] <= sides[2])
-			printf("No\n");
-		else if(sides[0] * sides[0] + sides[1] * sides[1] == sides[2] * sides[2])
-			printf("Right\n");
-		else if(sides[0] * sides[0] + sides[1] * sides[1] < sides[2] * sides[2])
-			printf("Obtuse\n");
-		else
-			printf("Acute\n");
+		whichTri(sides[0], sides[1], sides[2]);
 	}
 	
 	return 0;
@@ -29,4 +23,16 @@ int main(void)
 int cmp(const void *a, const void *b)
 {
     return *(const int*)a - *(const int*)b;
+}
+
+void whichTri(int a, int b, int c)
+{
+	if(a + b <= c)
+			printf("No\n");
+		else if(a * a + b * b == c * c)
+			printf("Right\n");
+		else if(a * a + b * b < c * c)
+			printf("Obtuse\n");
+		else
+			printf("Acute\n");
 }
