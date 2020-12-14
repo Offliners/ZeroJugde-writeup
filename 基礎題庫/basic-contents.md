@@ -53,6 +53,7 @@
 |a799: 正值國|[a799](Contents/a799/a799.md)|[a799](Contents/a799/a799.c)|[a799](Contents/a799/a799.py)|[a799](Contents/a799/a799.cpp)|
 |a915: 二维点排序|[a915](Contents/a915/a915.md)|[a915](Contents/a915/a915.c)|[a915](Contents/a915/a915.py)|[a915](Contents/a915/a915.cpp)|
 |b294: 經濟大恐荒|[b294](Contents/b294/b294.md)|[b294](Contents/b294/b294.c)|||
+|b367: 翻轉世界|[b367](Contents/b367/b367.md)|[b367](Contents/b367/b367.c)|[b367](Contents/b367/b367.py)|[b367](Contents/b367/b367.cpp)|
 |b373: [福州19中]车厢重组|[b373](Contents/b373/b373.md)|[b373](Contents/b373/b373.c)|||
 |b374: [福州19中]众数|[b374](Contents/b374/b374.md)|[b374](Contents/b374/b374.c)|||
 |b537: 分數運算-1 |[b537](Contents/b537/b537.md)|[b537](Contents/b537/b537.c)|||
