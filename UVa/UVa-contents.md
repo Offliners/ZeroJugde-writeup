@@ -27,7 +27,7 @@
 |d053: 10970 - Big Chocolate|[d053](Contents/d053/d053.md)|[d053](Contents/d053/d053.c)|||
 |d097: 10038 - Jolly Jumpers|[d097](Contents/d097/d097.md)|[d097](Contents/d097/d097.c)|||
 |d111: 10110 - Light, more light|[d111](Contents/d111/d111.md)|[d111](Contents/d111/d111.c)|||
-|d143: 11172 - Relational Operators|[d143](Contents/d143/d143.md)|[d143](Contents/d143/d143.c)|||
+|d143: 11172 - Relational Operators|[d143](Contents/d143/d143.md)|[d143](Contents/d143/d143.c)|[d143](Contents/d143/d143.py)|[d143](Contents/d143/d143.cpp)|
 |d186: 11461 - Square Numbers|[d186](Contents/d186/d186.md)|[d186](Contents/d186/d186.c)|[d186](Contents/d186/d186.py)|[d186](Contents/d186/d186.cpp)|
 |d190: 11462 - Age Sort|[d190](Contents/d190/d190.md)|[d190](Contents/d190/d190.c)|||
 |d226: 10071 - Back to High School Physics|[d226](Contents/d226/d226.md)|[d226](Contents/d226/d226.c)|||
