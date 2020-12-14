@@ -6,7 +6,7 @@
 |a623: 3. Combination|[a623](Contents/a623/a623.md)|[a623](Contents/a623/a623.c)|||
 |a861: 1. Secure the Perimeter|[a861](Contents/a861/a861.md)|[a861](Contents/a861/a861.c)|[a861](Contents/a861/a861.py)|[a861](Contents/a861/a861.cpp)|
 |a862: 2. My Dear Friend VIR|[a862](Contents/a862/a862.md)|[a862](Contents/a862/a862.c)|[a862](Contents/a862/a862.py)|[a862](Contents/a862/a862.cpp)|
-|b004: 繩子上吃草的牛|[b004](Contents/b004/b004.md)|[b004](Contents/b004/b004.c)|||
+|b004: 繩子上吃草的牛|[b004](Contents/b004/b004.md)|[b004](Contents/b004/b004.c)|[b004](Contents/b004/b004.py)|[b004](Contents/b004/b004.cpp)|
 |b112: 5. 高中運動會|[b112](Contents/b112/b112.md)|[b112](Contents/b112/b112.c)|||
 |b127: 會議中心（Room）|[b127](Contents/b127/b127.md)|[b127](Contents/b127/b127.c)|||
 |b186: 97七區資訊學科1(改編)|[b186](Contents/b186/b186.md)|[b186](Contents/b186/b186.c)|||
