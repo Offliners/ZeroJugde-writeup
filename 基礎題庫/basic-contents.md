@@ -65,6 +65,7 @@
 |b758: 牛仔(ㄗˇ)很忙|[b758](Contents/b758/b758.md)|[b758](Contents/b758/b758.c)|[b758](Contents/b758/b758.py)|[b758](Contents/b758/b758.cpp)|
 |b836: kevin戀愛攻略系列題-2 說好的霸王花呢??|[b836](Contents/b836/b836.md)|[b836](Contents/b836/b836.c)|[b836](Contents/b836/b836.py)|[b836](Contents/b836/b836.cpp)|
 |b877: 我是電視迷|[b877](Contents/b877/b877.md)|[b877](Contents/b877/b877.c)|[b877](Contents/b877/b877.py)|[b877](Contents/b877/b877.cpp)|
+|b911: 我想跟Kevin借筷子系列4|[b911](Contents/b911/b911.md)||[b911](Contents/b911/b911.py)||
 |b923: stack 堆疊的模板題|[b923](Contents/b923/b923.md)|[b923](Contents/b923/b923.c)|||
 |b969: hello, everyone|[b969](Contents/b969/b969.md)||[b969](Contents/b969/b969.py)||
 |b970: 我不說髒話 (續)|[b970](Contents/b970/b970.md)|[b970](Contents/b970/b970.c)|[b970](Contents/b970/b970.py)|[b970](Contents/b970/b970.cpp)|
