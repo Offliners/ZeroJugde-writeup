@@ -30,7 +30,7 @@
 |d143: 11172 - Relational Operators|[d143](Contents/d143/d143.md)|[d143](Contents/d143/d143.c)|[d143](Contents/d143/d143.py)|[d143](Contents/d143/d143.cpp)|
 |d186: 11461 - Square Numbers|[d186](Contents/d186/d186.md)|[d186](Contents/d186/d186.c)|[d186](Contents/d186/d186.py)|[d186](Contents/d186/d186.cpp)|
 |d190: 11462 - Age Sort|[d190](Contents/d190/d190.md)|[d190](Contents/d190/d190.c)|||
-|d193: 11526 - H(n)|[d193](Contents/d193/d193.md)|[d193](Contents/d193/d193.c)|||
+|d193: 11526 - H(n)|[d193](Contents/d193/d193.md)|[d193](Contents/d193/d193.c)|[d193](Contents/d193/d193.py)|[d193](Contents/d193/d193.cpp)|
 |d226: 10071 - Back to High School Physics|[d226](Contents/d226/d226.md)|[d226](Contents/d226/d226.c)|||
 |d235: 10929 - You can say 11|[d235](Contents/d235/d235.md)|[d235](Contents/d235/d235.c)|||
 |d255: 11417 - GCD|[d255](Contents/d255/d255.md)|[d255](Contents/d255/d255.c)|[d255](Contents/d255/d255.py)|[d255](Contents/d255/d255.cpp)|
