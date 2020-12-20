@@ -43,5 +43,5 @@
 |d980: 11479 - Is this the easiest problem?|[d980](Contents/d980/d980.md)|[d980](Contents/d980/d980.c)|||
 |e540: 01585 - Score|[e540](Contents/e540/e540.md)|[e540](Contents/e540/e540.c)|[e540](Contents/e540/e540.py)|[e540](Contents/e540/e540.cpp)|
 |e558: 01583 - Digit Generator|[e558](Contents/e558/e558.md)|[e558](Contents/e558/e558.c)|||
-|e561: 00299 - Train Swapping|[e561](Contents/e561/e561.md)|[e561](Contents/e561/e561.c)||
-|e612: 13178 - Is it multiple of 3?|[e612](Contents/e612/e612.md)|[e612](Contents/e612/e612.c)||
+|e561: 00299 - Train Swapping|[e561](Contents/e561/e561.md)|[e561](Contents/e561/e561.c)|||
+|e612: 13178 - Is it multiple of 3?|[e612](Contents/e612/e612.md)|[e612](Contents/e612/e612.c)|[e612](Contents/e612/e612.py)|[e612](Contents/e612/e612.cpp)|
