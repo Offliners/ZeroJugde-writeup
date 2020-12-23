@@ -139,6 +139,7 @@
 |e417: 乘法~ 乘法~ 加法~|[e417](Contents/e417/e417.md)|[e417](Contents/e417/e417.c)|||
 |e456: Ten little Indians|[e456](Contents/e456/e456.md)|[e456](Contents/e456/e456.c)|||
 |e470: 無窮級數之和(一)|[e470](Contents/e470/e470.md)|[e470](Contents/e470/e470.c)|||
+|e484: 我是優質學生|[e484](Contents/e484/e484.md)|[e484](Contents/e484/e484.c)|||
 |e604: Sierpinski's Triangle's secret (I)|[e604](Contents/e604/e604.md)||[e604](Contents/e604/e604.py)||
 |e700: 星座|[e700](Contents/e700/e700.md)|[e700](Contents/e700/e700.c)|||
 |e908: 星期幾咧|[e908](Contents/e908/e908.md)|[e908](Contents/e908/e908.c)|||
