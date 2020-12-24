@@ -63,6 +63,7 @@
 |b701: 我的領土有多大|[b701](Contents/b701/b701.md)|[b701](Contents/b701/b701.c)|||
 |b757: 頸美椰子樹|[b757](Contents/b757/b757.md)|[b757](Contents/b757/b757.c)|[b757](Contents/b757/b757.py)|[b757](Contents/b757/b757.cpp)|
 |b758: 牛仔(ㄗˇ)很忙|[b758](Contents/b758/b758.md)|[b758](Contents/b758/b758.c)|[b758](Contents/b758/b758.py)|[b758](Contents/b758/b758.cpp)|
+|b759: 我明明就有說過= =|[b759](Contents/b759/b759.md)|[b759](Contents/b759/b759.c)|||
 |b836: kevin戀愛攻略系列題-2 說好的霸王花呢??|[b836](Contents/b836/b836.md)|[b836](Contents/b836/b836.c)|[b836](Contents/b836/b836.py)|[b836](Contents/b836/b836.cpp)|
 |b877: 我是電視迷|[b877](Contents/b877/b877.md)|[b877](Contents/b877/b877.c)|[b877](Contents/b877/b877.py)|[b877](Contents/b877/b877.cpp)|
 |b911: 我想跟Kevin借筷子系列4|[b911](Contents/b911/b911.md)|[b911](Contents/b911/b911.c)|[b911](Contents/b911/b911.py)|[b911](Contents/b911/b911.cpp)|
