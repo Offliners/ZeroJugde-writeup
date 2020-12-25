@@ -89,6 +89,7 @@
 |c716: Johnny B. Goode|[c716](Contents/c716/c716.md)|[c716](Contents/c716/c716.c)|[c716](Contents/c716/c716.py)|[c716](Contents/c716/c716.cpp)|
 |c717: You can say that again!|[c717](Contents/c717/c717.md)|[c717](Contents/c717/c717.c)|[c717](Contents/c717/c717.py)|[c717](Contents/c717/c717.cpp)|
 |c726: K-I-S-S-I-N-G (一行版)|[c726](Contents/c726/c726.md)|[c726](Contents/c726/c726.c)|[c726](Contents/c726/c726.py)|[c726](Contents/c726/c726.cpp)|
+|c760: 蝸牛老師的點名單 (再續)|[c760](Contents/c760/c760.md)|[c760](Contents/c760/c760.c)|||
 |d010: 盈數、虧數和完全數|[d010](Contents/d010/d010.md)|[d010](Contents/d010/d010.c)|||
 |d018: 字串讀取練習|[d018](Contents/d018/d018.md)|[d018](Contents/d018/d018.c)|||
 |d049: 中華民國萬歲！|[d049](Contents/d049/d049.md)|[d049](Contents/d049/d049.c)|||
