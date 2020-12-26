@@ -2,6 +2,7 @@
 
 |Problems|Links|C|Python|C++|
 |-|-|-|-|-|
+|a007: 判斷質數|[a007](Contents/a007/a007.md)|[a007](Contents/a007/a007.c)|||
 |a144: 整數分拆|[a144](Contents/a144/a144.md)|[a144](Contents/a144/a144.c)|||
 |a165: Magic number|[a165](Contents/a165/a165.md)|[a165](Contents/a165/a165.c)|||
 |a227: 三龍杯 -> 河內之塔|[a227](Contents/a227/a227.md)|[a227](Contents/a227/a227.c)|||
