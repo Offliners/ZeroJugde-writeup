@@ -3,6 +3,19 @@
 int num;
 char bin[16];
 
+void dfs(int);
+
+int main(void)
+{
+	while(scanf("%d", &num) != EOF)
+	{
+		bin[num] = 0;
+		dfs(0);
+	}
+	
+	return 0;
+}
+
 void dfs(int n)
 {
 	if(n == num)
@@ -15,15 +28,4 @@ void dfs(int n)
 	dfs(n + 1);
 	bin[n] = '1';
 	dfs(n + 1);
-}
-
-int main(void)
-{
-	while(scanf("%d", &num) != EOF)
-	{
-		bin[num] = 0;
-		dfs(0);
-	}
-	
-	return 0;
 }
