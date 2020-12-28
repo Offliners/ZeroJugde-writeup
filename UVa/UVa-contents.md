@@ -9,7 +9,7 @@
 |a135: 12250 - Language Detection|[a135](Contents/a135/a135.md)|[a135](Contents/a135/a135.c)|||
 |a466: 12289 - One-Two-Three|[a466](Contents/a466/a466.md)|[a466](Contents/a466/a466.c)|||
 |a518: 12468 - Zapping|[a518](Contents/a518/a518.md)|[a518](Contents/a518/a518.c)|||
-|a519: 12459 - Bees' ancestors|[a519](Contents/a519/a519.md)|[a519](Contents/a519/a519.c)|||
+|a519: 12459 - Bees' ancestors|[a519](Contents/a519/a519.md)|[a519](Contents/a519/a519.c)|[a519](Contents/a519/a519.py)|[a519](Contents/a519/a519.cpp)|
 |a536: 11689 - Soda Surpler|[a536](Contents/a536/a536.md)|[a536](Contents/a536/a536.c)|[a536](Contents/a536/a536.py)|[a536](Contents/a536/a536.cpp)|
 |a539: 10327 - Flip Sort|[a539](Contents/a539/a539.md)|[a539](Contents/a539/a539.c)|||
 |a737: 10041 - Vito's family|[a737](Contents/a737/a737.md)|[a737](Contents/a737/a737.c)|||
