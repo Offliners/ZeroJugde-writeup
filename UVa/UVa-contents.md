@@ -9,6 +9,7 @@
 |a135: 12250 - Language Detection|[a135](Contents/a135/a135.md)|[a135](Contents/a135/a135.c)|||
 |a466: 12289 - One-Two-Three|[a466](Contents/a466/a466.md)|[a466](Contents/a466/a466.c)|||
 |a518: 12468 - Zapping|[a518](Contents/a518/a518.md)|[a518](Contents/a518/a518.c)|||
+|a536: 11689 - Soda Surpler|[a536](Contents/a536/a536.md)|[a536](Contents/a536/a536.c)|||
 |a539: 10327 - Flip Sort|[a539](Contents/a539/a539.md)|[a539](Contents/a539/a539.c)|||
 |a737: 10041 - Vito's family|[a737](Contents/a737/a737.md)|[a737](Contents/a737/a737.c)|||
 |c002: 10696 - f91|[c002](Contents/c002/c002.md)|[c002](Contents/c002/c002.c)|[c002](Contents/c002/c002.py)|[c002](Contents/c002/c002.cpp)|
