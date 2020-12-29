@@ -49,7 +49,7 @@
 |a528: 大數排序|[a528](Contents/a528/a528.md)||[a528](Contents/a528/a528.py)||
 |a647: 投資專家|[a647](Contents/a647/a647.md)|[a647](Contents/a647/a647.c)|||
 |a693: 吞食天地|[a693](Contents/a693/a693.md)|[a693](Contents/a693/a693.c)|||
-|a694: 吞食天地二|[a694](Contents/a694/a694.md)|[a694](Contents/a694/a694.c)|||
+|a694: 吞食天地二|[a694](Contents/a694/a694.md)|[a694](Contents/a694/a694.c)||[a694](Contents/a694/a694.cpp)|
 |a738: 最大公约数|[a738](Contents/a738/a738.md)|[a738](Contents/a738/a738.c)|||
 |a740: 质因数之和|[a740](Contents/a740/a740.md)|[a740](Contents/a740/a740.c)|||
 |a799: 正值國|[a799](Contents/a799/a799.md)|[a799](Contents/a799/a799.c)|[a799](Contents/a799/a799.py)|[a799](Contents/a799/a799.cpp)|
