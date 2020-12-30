@@ -136,6 +136,7 @@
 |d583: 幼稚的企鵝|[d583](Contents/d583/d583.md)|[d583](Contents/d583/d583.c)|||
 |d587: 參貳壹真好吃|[d587](Contents/d587/d587.md)|[d587](Contents/d587/d587.c)|||
 |d623: 反方陣|[d623](Contents/d623/d623.md)|[d623](Contents/d623/d623.c)|||
+|d637: 路過的鴨duck|[d637](Contents/d637/d637.md)|[d637](Contents/d637/d637.c)|||
 |d649: 數字三角形|[d649](Contents/d649/d649.md)|[d649](Contents/d649/d649.c)|||
 |d693: 最小公倍數|[d693](Contents/d693/d693.md)|[d693](Contents/d693/d693.c)|||
 |d732: 二分搜尋法|[d732](Contents/d732/d732.md)|[d732](Contents/d732/d732.c)|||
