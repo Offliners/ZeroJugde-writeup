@@ -119,7 +119,7 @@
 |d212: 東東爬階梯|[d212](Contents/d212/d212.md)|[d212](Contents/d212/d212.c)|||
 |d277: 矩形对角线|[d277](Contents/d277/d277.md)|[d277](Contents/d277/d277.c)|||
 |d299: 程式設計師的面試問題|[d299](Contents/d299/d299.md)|[d299](Contents/d299/d299.c)|||
-|d392: 读取练习——强大的加法！|[d392](Contents/d392/d392.md)|[d392](Contents/d392/d392.c)|||
+|d392: 读取练习——强大的加法！|[d392](Contents/d392/d392.md)|[d392](Contents/d392/d392.c)|[d392](Contents/d392/d392.py)|[d392](Contents/d392/d392.cpp)|
 |d460: 山六九之旅|[d460](Contents/d460/d460.md)|[d460](Contents/d460/d460.c)|||
 |d461: 班際籃球賽|[d461](Contents/d461/d461.md)|[d461](Contents/d461/d461.c)|||
 |d471: 0 與 1 的遊戲|[d471](Contents/d471/d471.md)|[d471](Contents/d471/d471.c)|[d471](Contents/d471/d471.py)|[d471](Contents/d471/d471.cpp)|
