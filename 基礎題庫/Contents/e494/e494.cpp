@@ -5,9 +5,9 @@
 #define e 2.718281828459045
 #define m 0.261497212847642
 
-double Log(std::string);
-
 using namespace std;
+
+double Log(string);
 
 int main(void)
 {
