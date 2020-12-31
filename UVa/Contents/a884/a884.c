@@ -3,7 +3,6 @@
 
 #define MAX 10001
 
-int num1Len, num2Len;
 int A[MAX];
 int B[MAX];
 int result[MAX];
