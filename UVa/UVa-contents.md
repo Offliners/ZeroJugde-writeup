@@ -23,7 +23,7 @@
 |c013: 00488 - Triangle Wave|[c013](Contents/c013/c013.md)|[c013](Contents/c013/c013.c)|||
 |c022: 10783 - Odd Sum|[c022](Contents/c022/c022.md)|[c022](Contents/c022/c022.c)|||
 |c024: 10079 - Pizza Cutting|[c024](Contents/c024/c024.md)|[c024](Contents/c024/c024.c)|[c024](Contents/c024/c024.py)|[c024](Contents/c024/c024.cpp)|
-|c032: 00382 - Perfection|[c032](Contents/c032/c032.md)|[c032](Contents/c032/c032.c)|||
+|c032: 00382 - Perfection|[c032](Contents/c032/c032.md)|[c032](Contents/c032/c032.c)|[c032](Contents/c032/c032.py)|[c032](Contents/c032/c032.cpp)|
 |c054: 10082 - WERTYU|[c054](Contents/c054/c054.md)|[c054](Contents/c054/c054.c)|||
 |c067: 00591 - Box of Bricks|[c067](Contents/c067/c067.md)|[c067](Contents/c067/c067.c)|||
 |c087: 00412 - Pi|[c087](Contents/c087/c087.md)|[c087](Contents/c087/c087.c)|[c087](Contents/c087/c087.py)|[c087](Contents/c087/c087.cpp)|
