@@ -141,6 +141,7 @@
 |d649: 數字三角形|[d649](Contents/d649/d649.md)|[d649](Contents/d649/d649.c)|||
 |d693: 最小公倍數|[d693](Contents/d693/d693.md)|[d693](Contents/d693/d693.c)|||
 |d732: 二分搜尋法|[d732](Contents/d732/d732.md)|[d732](Contents/d732/d732.c)|||
+|d881: 作業苦多|[d881](Contents/d881/d881.md)|[d881](Contents/d881/d881.c)|||
 |d827: 買鉛筆|[d827](Contents/d827/d827.md)|[d827](Contents/d827/d827.c)|[d827](Contents/d827/d827.py)|[d827](Contents/d827/d827.cpp)|
 |d984: 棄保效應|[d984](Contents/d984/d984.md)|[d984](Contents/d984/d984.c)|||
 |d985: Gran Turismo 5|[d985](Contents/d985/d985.md)|[d985](Contents/d985/d985.c)|||
