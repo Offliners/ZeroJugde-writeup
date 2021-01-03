@@ -83,6 +83,7 @@
 |c315: I, ROBOT 前傳|[c315](Contents/c315/c315.md)|[c315](Contents/c315/c315.c)|[c315](Contents/c315/c315.py)|[c315](Contents/c315/c315.cpp)|
 |c317: 硬幣問題！前傳|[c317](Contents/c317/c317.md)|[c317](Contents/c317/c317.c)|||
 |c379: 成為出題者|[c379](Contents/c379/c379.md)|[c379](Contents/c379/c379.c)|[c379](Contents/c379/c379.py)|[c379](Contents/c379/c379.cpp)|
+|c381: 聖經密碼|[c381](Contents/c381/c381.md)|[c381](Contents/c381/c381.c)|||
 |c382: 加減乘除|[c382](Contents/c382/c382.md)|[c382](Contents/c382/c382.c)|[c382](Contents/c382/c382.py)|[c382](Contents/c382/c382.cpp)|
 |c418: Bert的三角形 (1)|[c418](Contents/c418/c418.md)|[c418](Contents/c418/c418.c)|[c418](Contents/c418/c418.py)|[c418](Contents/c418/c418.cpp)|
 |c419: Bert的三角形 (2)|[c419](Contents/c419/c419.md)|[c419](Contents/c419/c419.c)|||
