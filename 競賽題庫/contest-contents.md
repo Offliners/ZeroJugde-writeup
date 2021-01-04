@@ -13,6 +13,7 @@
 |b187: 97七區資訊學科2(改編)|[b187](Contents/b187/b187.md)|[b187](Contents/b187/b187.c)|||
 |b513: 判斷質數-商競103|[b513](Contents/b513/b513.md)|[b513](Contents/b513/b513.c)|||
 |b514: 解二元一次聯立方程式之根-商競103|[b514](Contents/b514/b514.md)|[b514](Contents/b514/b514.c)|||
+|b515: 摩斯電碼-商競103|[b515](Contents/b515/b515.md)|[b515](Contents/b515/b515.c)|||
 |b681: 1. 山洞探險|[b681](Contents/b681/b681.md)|[b681](Contents/b681/b681.c)|||
 |b682: 2. 同學早安|[b682](Contents/b682/b682.md)|[b682](Contents/b682/b682.c)|||
 |b753: P31以身分證投票之檢查|[b753](Contents/b753/b753.md)|[b753](Contents/b753/b753.c)|||
