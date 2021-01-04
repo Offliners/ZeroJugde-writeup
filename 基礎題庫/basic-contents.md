@@ -164,7 +164,7 @@
 |e494: 無窮級數之和(二)|[e494](Contents/e494/e494.md)|[e494](Contents/e494/e494.c)|[e494](Contents/e494/e494.py)|[e494](Contents/e494/e494.cpp)|
 |e604: Sierpinski's Triangle's secret (I)|[e604](Contents/e604/e604.md)||[e604](Contents/e604/e604.py)||
 |e621: 1. 免費停車 (Free Parking)|[e621](Contents/e621/e621.md)|[e621](Contents/e621/e621.c)|[e621](Contents/e621/e621.py)|[e621](Contents/e621/e621.cpp)|
-|e622: 3. 虛擬寵物大師 (Master)|[e622](Contents/e622/e622.md)|[e622](Contents/e622/e622.c)|||
+|e622: 3. 虛擬寵物大師 (Master)|[e622](Contents/e622/e622.md)|[e622](Contents/e622/e622.c)|[e622](Contents/e622/e622.py)|[e622](Contents/e622/e622.cpp)|
 |e700: 星座|[e700](Contents/e700/e700.md)|[e700](Contents/e700/e700.c)|||
 |e908: 星期幾咧|[e908](Contents/e908/e908.md)|[e908](Contents/e908/e908.c)|||
 |e926: 跳脫字元|[e926](Contents/e926/e926.md)|[e926](Contents/e926/e926.c)|[e926](Contents/e926/e926.py)|[e926](Contents/e926/e926.cpp)|
