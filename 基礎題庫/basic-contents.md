@@ -147,6 +147,7 @@
 |d637: 路過的鴨duck|[d637](Contents/d637/d637.md)|[d637](Contents/d637/d637.c)|[d637](Contents/d637/d637.py)|[d637](Contents/d637/d637.cpp)|
 |d649: 數字三角形|[d649](Contents/d649/d649.md)|[d649](Contents/d649/d649.c)|||
 |d693: 最小公倍數|[d693](Contents/d693/d693.md)|[d693](Contents/d693/d693.c)|||
+|d710: parking lot|[d710](Contents/d710/d710.md)|[d710](Contents/d710/d710.c)|||
 |d732: 二分搜尋法|[d732](Contents/d732/d732.md)|[d732](Contents/d732/d732.c)|||
 |d881: 作業苦多|[d881](Contents/d881/d881.md)|[d881](Contents/d881/d881.c)|[d881](Contents/d881/d881.py)|[d881](Contents/d881/d881.cpp)|
 |d827: 買鉛筆|[d827](Contents/d827/d827.md)|[d827](Contents/d827/d827.c)|[d827](Contents/d827/d827.py)|[d827](Contents/d827/d827.cpp)|
