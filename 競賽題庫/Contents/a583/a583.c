@@ -9,7 +9,7 @@ int main(void)
 	
 	while(scanf("%d %d", &n, &m) != EOF)
 	{
-		double min = sqrt(n * n);
+		double min = sqrt(2) * n;
 		
 		for(int i = 0; i < m; i++)
 		{
