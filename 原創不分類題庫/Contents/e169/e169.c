@@ -3,7 +3,7 @@
 int main(void)
 {
 	int n, score, total;
-	int pick[100] = {0};
+	int pick[101] = {0};
 	
 	while(1)
 	{
