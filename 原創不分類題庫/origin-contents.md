@@ -8,6 +8,7 @@
 |a227: 三龍杯 -> 河內之塔|[a227](Contents/a227/a227.md)|[a227](Contents/a227/a227.c)|||
 |a233: 排序法~~~ 挑戰極限|[a233](Contents/a233/a233.md)|[a233](Contents/a233/a233.c)|[a233](Contents/a233/a233.py)|[a233](Contents/a233/a233.cpp)|
 |a273: 小朋友下樓梯|[a273](Contents/a273/a273.md)|[a273](Contents/a273/a273.c)|||
+|a541: 字典|[a541](Contents/a541/a541.md)|[a541](Contents/a541/a541.c)|||
 |a699: 1、国王的烦恼(King)|[a699](Contents/a699/a699.md)|[a699](Contents/a699/a699.c)|||
 |b428: 凱薩加密|[b428](Contents/b428/b428.md)|[b428](Contents/b428/b428.c)|[b428](Contents/b428/b428.py)|[b428](Contents/b428/b428.cpp)|
 |b676: 63萬勞工苦輪班不像人像機器|[b676](Contents/b676/b676.md)|[b676](Contents/b676/b676.c)|[b676](Contents/b676/b676.py)|[b676](Contents/b676/b676.cpp)|
