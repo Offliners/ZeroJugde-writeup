@@ -21,5 +21,5 @@
 |d635: 幸運777？luck|[d635](Contents/d635/d635.md)|[d635](Contents/d635/d635.c)|[d635](Contents/d635/d635.py)|[d635](Contents/d635/d635.cpp)|
 |d709: 判断质数（一）|[d709](Contents/d709/d709.md)|[d709](Contents/d709/d709.c)|||
 |d786: 三、平均值|[d786](Contents/d786/d786.md)|[d786](Contents/d786/d786.c)|||
-|e169: 粉絲入坑 - V Live & 飯拍影片|[e169](Contents/e169/e169.md)|[e169](Contents/e169/e169.c)||
-|e473: 整數的位數|[e473](Contents/e473/e473.md)|[e473](Contents/e473/e473.c)||
+|e169: 粉絲入坑 - V Live & 飯拍影片|[e169](Contents/e169/e169.md)|[e169](Contents/e169/e169.c)|[e169](Contents/e169/e169.py)|[e169](Contents/e169/e169.cpp)|
+|e473: 整數的位數|[e473](Contents/e473/e473.md)|[e473](Contents/e473/e473.c)|||
