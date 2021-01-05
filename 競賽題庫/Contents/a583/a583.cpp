@@ -12,7 +12,7 @@ int main(void)
 	
 	while(cin >> n >> m)
 	{
-		double min = sqrt(n * n);
+		double min = sqrt(2) * n;
 		
 		for(int i = 0; i < m; i++)
 		{
