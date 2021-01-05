@@ -2,7 +2,7 @@
 
 |Problems|Links|C|Python|C++|
 |-|-|-|-|-|
-|a583: 1. 座位距離計算問題|[a583](Contents/a583/a583.md)|[a583](Contents/a583/a583.c)|||
+|a583: 1. 座位距離計算問題|[a583](Contents/a583/a583.md)|[a583](Contents/a583/a583.c)||[a583](Contents/a583/a583.cpp)|
 |a621: Powers of Two|[a621](Contents/a621/a621.md)|[a621](Contents/a621/a621.c)|[a621](Contents/a621/a621.py)|[a621](Contents/a621/a621.cpp)|
 |a623: 3. Combination|[a623](Contents/a623/a623.md)|[a623](Contents/a623/a623.c)|||
 |a861: 1. Secure the Perimeter|[a861](Contents/a861/a861.md)|[a861](Contents/a861/a861.c)|[a861](Contents/a861/a861.py)|[a861](Contents/a861/a861.cpp)|
