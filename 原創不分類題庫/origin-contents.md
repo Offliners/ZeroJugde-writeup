@@ -19,7 +19,7 @@
 |d046: 文文採西瓜|[d046](Contents/d046/d046.md)|[d046](Contents/d046/d046.c)|||
 |d236: 畢氏的定理|[d236](Contents/d236/d236.md)|[d236](Contents/d236/d236.c)|||
 |d323: 電腦-窮人的|[d323](Contents/d323/d323.md)|[d323](Contents/d323/d323.c)|[d323](Contents/d323/d323.py)|[d323](Contents/d323/d323.cpp)|
-|d328: S△=？|[d328](Contents/d328/d328.md)|[d328](Contents/d328/d328.c)|||
+|d328: S△=？|[d328](Contents/d328/d328.md)|[d328](Contents/d328/d328.c)|[d328](Contents/d328/d328.py)|[d328](Contents/d328/d328.cpp)|
 |d481: 矩陣乘法|[d481](Contents/d481/d481.md)|[d481](Contents/d481/d481.c)|||
 |d635: 幸運777？luck|[d635](Contents/d635/d635.md)|[d635](Contents/d635/d635.c)|[d635](Contents/d635/d635.py)|[d635](Contents/d635/d635.cpp)|
 |d709: 判断质数（一）|[d709](Contents/d709/d709.md)|[d709](Contents/d709/d709.c)|||
