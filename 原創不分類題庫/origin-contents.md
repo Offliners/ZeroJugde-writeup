@@ -5,6 +5,7 @@
 |a007: 判斷質數|[a007](Contents/a007/a007.md)|[a007](Contents/a007/a007.c)|||
 |a144: 整數分拆|[a144](Contents/a144/a144.md)|[a144](Contents/a144/a144.c)|||
 |a165: Magic number|[a165](Contents/a165/a165.md)|[a165](Contents/a165/a165.c)|||
+|a170: 天才的小明|[a170](Contents/a170/a170.md)|[a170](Contents/a170/a170.c)|||
 |a227: 三龍杯 -> 河內之塔|[a227](Contents/a227/a227.md)|[a227](Contents/a227/a227.c)|||
 |a233: 排序法~~~ 挑戰極限|[a233](Contents/a233/a233.md)|[a233](Contents/a233/a233.c)|[a233](Contents/a233/a233.py)|[a233](Contents/a233/a233.cpp)|
 |a273: 小朋友下樓梯|[a273](Contents/a273/a273.md)|[a273](Contents/a273/a273.c)|||
