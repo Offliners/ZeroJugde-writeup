@@ -26,4 +26,4 @@
 |e169: 粉絲入坑 - V Live & 飯拍影片|[e169](Contents/e169/e169.md)|[e169](Contents/e169/e169.c)|[e169](Contents/e169/e169.py)|[e169](Contents/e169/e169.cpp)|
 |e473: 整數的位數|[e473](Contents/e473/e473.md)|[e473](Contents/e473/e473.c)|||
 |f266: Hello, Echo (Part 1)|[f266](Contents/f266/f266.md)|[f266](Contents/f266/f266.c)|[f266](Contents/f266/f266.py)|[f266](Contents/f266/f266.cpp)|
-|f354: 好多好多 ~ 好多正方形|[f354](Contents/f354/f354.md)|[f354](Contents/f354/f354.c)||[f354](Contents/f354/f354.cpp)|
+|f354: 好多好多 ~ 好多正方形|[f354](Contents/f354/f354.md)|[f354](Contents/f354/f354.c)|[f354](Contents/f354/f354.py)|[f354](Contents/f354/f354.cpp)|
