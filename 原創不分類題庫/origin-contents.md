@@ -15,6 +15,7 @@
 |b676: 63萬勞工苦輪班不像人像機器|[b676](Contents/b676/b676.md)|[b676](Contents/b676/b676.c)|[b676](Contents/b676/b676.py)|[b676](Contents/b676/b676.cpp)|
 |b968: K-I-S-S-I-N-G|[b968](Contents/b968/b968.md)|[b968](Contents/b968/b968.c)|[b968](Contents/b968/b968.py)|[b968](Contents/b968/b968.cpp)|
 |c278: 玩偶~ 玩偶~ 玩玩偶~|[c278](Contents/c278/c278.md)|[c278](Contents/c278/c278.c)||[c278](Contents/c278/c278.cpp)|
+|c660: 墨西哥波浪舞|[c660](Contents/c660/c660.md)|[c660](Contents/c660/c660.c)|[c660](Contents/c660/c660.py)|[c660](Contents/c660/c660.cpp)|
 |c730: 一天一那吾|[c730](Contents/c730/c730.md)|[c730](Contents/c730/c730.c)|[c730](Contents/c730/c730.py)|[c730](Contents/c730/c730.cpp)|
 |d046: 文文採西瓜|[d046](Contents/d046/d046.md)|[d046](Contents/d046/d046.c)|||
 |d170: 飛蛾撲火(一)|[d170](Contents/d170/d170.md)|[d170](Contents/d170/d170.c)|||
