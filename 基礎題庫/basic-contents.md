@@ -153,6 +153,7 @@
 |d827: 買鉛筆|[d827](Contents/d827/d827.md)|[d827](Contents/d827/d827.c)|[d827](Contents/d827/d827.py)|[d827](Contents/d827/d827.cpp)|
 |d984: 棄保效應|[d984](Contents/d984/d984.md)|[d984](Contents/d984/d984.c)|||
 |d985: Gran Turismo 5|[d985](Contents/d985/d985.md)|[d985](Contents/d985/d985.c)|||
+|e051: 文意字彙|[e051](Contents/e051/e051.md)|[e051](Contents/e051/e051.c)|[e051](Contents/e051/e051.py)|[e051](Contents/e051/e051.cpp)|
 |e156: 良心題: 求和|[e156](Contents/e156/e156.md)|[e156](Contents/e156/e156.c)|||
 |e343: BMI 計算|[e343](Contents/e343/e343.md)|[e343](Contents/e343/e343.c)|[e343](Contents/e343/e343.py)|[e343](Contents/e343/e343.cpp)|
 |e345: Add Digits - 面試題|[e345](Contents/e345/e345.md)|[e345](Contents/e345/e345.c)|||
