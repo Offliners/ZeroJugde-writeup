@@ -11,6 +11,7 @@
 |a273: 小朋友下樓梯|[a273](Contents/a273/a273.md)|[a273](Contents/a273/a273.c)|||
 |a541: 字典|[a541](Contents/a541/a541.md)|[a541](Contents/a541/a541.c)|[a541](Contents/a541/a541.py)|[a541](Contents/a541/a541.cpp)|
 |a699: 1、国王的烦恼(King)|[a699](Contents/a699/a699.md)|[a699](Contents/a699/a699.c)|||
+|b288 夏季大三角|[b288](Contents/b288/b288.md)|[b288](Contents/b288/b288.c)|||
 |b428: 凱薩加密|[b428](Contents/b428/b428.md)|[b428](Contents/b428/b428.c)|[b428](Contents/b428/b428.py)|[b428](Contents/b428/b428.cpp)|
 |b523: 先別管這個了，你聽過安麗嗎？|[b523](Contents/b523/b523.md)|[b523](Contents/b523/b523.c)|[b523](Contents/b523/b523.py)|[b523](Contents/b523/b523.cpp)|
 |b676: 63萬勞工苦輪班不像人像機器|[b676](Contents/b676/b676.md)|[b676](Contents/b676/b676.c)|[b676](Contents/b676/b676.py)|[b676](Contents/b676/b676.cpp)|
