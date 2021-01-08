@@ -19,6 +19,7 @@
 |c278: 玩偶~ 玩偶~ 玩玩偶~|[c278](Contents/c278/c278.md)|[c278](Contents/c278/c278.c)||[c278](Contents/c278/c278.cpp)|
 |c430: Guess ! Guess ! Guess !|[c430](Contents/c430/c430.md)|[c430](Contents/c430/c430.c)|||
 |c660: 墨西哥波浪舞|[c660](Contents/c660/c660.md)|[c660](Contents/c660/c660.c)|[c660](Contents/c660/c660.py)|[c660](Contents/c660/c660.cpp)|
+|c676: 大家來出題 { 1: 簡易加法 }|[c676](Contents/c676/c676.md)|[c676](Contents/c676/c676.c)|[c676](Contents/c676/c676.py)|[c676](Contents/c676/c676.cpp)|
 |c680: 電腦閱卷 1|[c680](Contents/c680/c680.md)|[c680](Contents/c680/c680.c)|||
 |c705: Int32 to IPv4|[c705](Contents/c705/c705.md)|[c705](Contents/c705/c705.c)|[c705](Contents/c705/c705.py)|[c705](Contents/c705/c705.cpp)|
 |c730: 一天一那吾|[c730](Contents/c730/c730.md)|[c730](Contents/c730/c730.c)|[c730](Contents/c730/c730.py)|[c730](Contents/c730/c730.cpp)|
