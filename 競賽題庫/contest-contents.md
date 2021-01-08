@@ -2,6 +2,7 @@
 
 |Problems|Links|C|Python|C++|
 |-|-|-|-|-|
+|a565: 2.p&q的邂逅|[a565](Contents/a565/a565.md)|[a565](Contents/a565/a565.c)|||
 |a583: 1. 座位距離計算問題|[a583](Contents/a583/a583.md)|[a583](Contents/a583/a583.c)||[a583](Contents/a583/a583.cpp)|
 |a621: Powers of Two|[a621](Contents/a621/a621.md)|[a621](Contents/a621/a621.c)|[a621](Contents/a621/a621.py)|[a621](Contents/a621/a621.cpp)|
 |a623: 3. Combination|[a623](Contents/a623/a623.md)|[a623](Contents/a623/a623.c)|||
