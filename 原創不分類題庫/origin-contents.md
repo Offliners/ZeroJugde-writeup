@@ -26,6 +26,7 @@
 |d046: 文文採西瓜|[d046](Contents/d046/d046.md)|[d046](Contents/d046/d046.c)|||
 |d170: 飛蛾撲火(一)|[d170](Contents/d170/d170.md)|[d170](Contents/d170/d170.c)|||
 |d236: 畢氏的定理|[d236](Contents/d236/d236.md)|[d236](Contents/d236/d236.c)|||
+|d238: "<<"運算子真好用|[d238](Contents/d238/d238.md)|[d238](Contents/d238/d238.c)|||
 |d323: 電腦-窮人的|[d323](Contents/d323/d323.md)|[d323](Contents/d323/d323.c)|[d323](Contents/d323/d323.py)|[d323](Contents/d323/d323.cpp)|
 |d328: S△=？|[d328](Contents/d328/d328.md)|[d328](Contents/d328/d328.c)|[d328](Contents/d328/d328.py)|[d328](Contents/d328/d328.cpp)|
 |d359: 快算面積|[d359](Contents/d359/d359.md)|[d359](Contents/d359/d359.c)|[d359](Contents/d359/d359.py)|[d359](Contents/d359/d359.cpp)|
