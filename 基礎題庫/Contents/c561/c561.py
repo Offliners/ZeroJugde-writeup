@@ -6,12 +6,12 @@ def rev(x):
     return int(x)
 
 for n in sys.stdin:
-    
     temp = [int(e) for e in input().split()]
-    data = []
+    
+    maxValue = 0
     for num in temp:
         num = rev(num)
-        data.append(num)
+        if num > maxValue:
+            maxValue = num
     
-    data = sorted(data)
-    print(data[-1])
+    print(maxValue)
