@@ -26,6 +26,7 @@
 |c730: 一天一那吾|[c730](Contents/c730/c730.md)|[c730](Contents/c730/c730.c)|[c730](Contents/c730/c730.py)|[c730](Contents/c730/c730.cpp)|
 |d046: 文文採西瓜|[d046](Contents/d046/d046.md)|[d046](Contents/d046/d046.c)|||
 |d170: 飛蛾撲火(一)|[d170](Contents/d170/d170.md)|[d170](Contents/d170/d170.c)|||
+|d171: 飛蛾撲火(二)|[d171](Contents/d171/d171.md)|[d171](Contents/d171/d171.c)|[d171](Contents/d171/d171.py)|[d171](Contents/d171/d171.cpp)|
 |d236: 畢氏的定理|[d236](Contents/d236/d236.md)|[d236](Contents/d236/d236.c)|||
 |d237: 質數合|[d237](Contents/d237/d237.md)|[d237](Contents/d237/d237.c)||[d237](Contents/d237/d237.cpp)|
 |d238: "<<"運算子真好用|[d238](Contents/d238/d238.md)|[d238](Contents/d238/d238.c)|[d238](Contents/d238/d238.py)|[d238](Contents/d238/d238.cpp)|
