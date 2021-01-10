@@ -28,6 +28,7 @@
 |d236: 畢氏的定理|[d236](Contents/d236/d236.md)|[d236](Contents/d236/d236.c)|||
 |d237: 質數合|[d237](Contents/d237/d237.md)|[d237](Contents/d237/d237.c)||[d237](Contents/d237/d237.cpp)|
 |d238: "<<"運算子真好用|[d238](Contents/d238/d238.md)|[d238](Contents/d238/d238.c)|[d238](Contents/d238/d238.py)|[d238](Contents/d238/d238.cpp)|
+|d290: 完全数|[d290](Contents/d290/d290.md)|[d290](Contents/d290/d290.c)|[d290](Contents/d290/d290.py)|[d290](Contents/d290/d290.cpp)|
 |d323: 電腦-窮人的|[d323](Contents/d323/d323.md)|[d323](Contents/d323/d323.c)|[d323](Contents/d323/d323.py)|[d323](Contents/d323/d323.cpp)|
 |d328: S△=？|[d328](Contents/d328/d328.md)|[d328](Contents/d328/d328.c)|[d328](Contents/d328/d328.py)|[d328](Contents/d328/d328.cpp)|
 |d359: 快算面積|[d359](Contents/d359/d359.md)|[d359](Contents/d359/d359.c)|[d359](Contents/d359/d359.py)|[d359](Contents/d359/d359.cpp)|
