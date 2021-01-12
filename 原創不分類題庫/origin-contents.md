@@ -39,6 +39,7 @@
 |d359: 快算面積|[d359](Contents/d359/d359.md)|[d359](Contents/d359/d359.c)|[d359](Contents/d359/d359.py)|[d359](Contents/d359/d359.cpp)|
 |d448: 好熱好熱|[d448](Contents/d448/d448.md)|[d448](Contents/d448/d448.c)|[d448](Contents/d448/d448.py)|[d448](Contents/d448/d448.cpp)|
 |d481: 矩陣乘法|[d481](Contents/d481/d481.md)|[d481](Contents/d481/d481.c)|||
+|d487: Order's computation process|[d487](Contents/d487/d487.md)|[d487](Contents/d487/d487.c)|[d487](Contents/d487/d487.py)|[d487](Contents/d487/d487.cpp)|
 |d493: 入门求幂题(求幂系列题1)|[d493](Contents/d493/d493.md)|[d493](Contents/d493/d493.c)|[d493](Contents/d493/d493.py)|[d493](Contents/d493/d493.cpp)|
 |d579: 兩條線|[d579](Contents/d579/d579.md)|[d579](Contents/d579/d579.c)|[d579](Contents/d579/d579.py)|[d579](Contents/d579/d579.cpp)|
 |d581: 三條線|[d581](Contents/d581/d581.md)|[d581](Contents/d581/d581.c)|[d581](Contents/d581/d581.py)|[d581](Contents/d581/d581.cpp)|
