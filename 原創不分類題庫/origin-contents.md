@@ -41,6 +41,7 @@
 |d481: 矩陣乘法|[d481](Contents/d481/d481.md)|[d481](Contents/d481/d481.c)|||
 |d487: Order's computation process|[d487](Contents/d487/d487.md)|[d487](Contents/d487/d487.c)|[d487](Contents/d487/d487.py)|[d487](Contents/d487/d487.cpp)|
 |d493: 入门求幂题(求幂系列题1)|[d493](Contents/d493/d493.md)|[d493](Contents/d493/d493.c)|[d493](Contents/d493/d493.py)|[d493](Contents/d493/d493.cpp)|
+|d533: 複數比大小|[d533](Contents/d533/d533.md)|[d533](Contents/d533/d533.c)|[d533](Contents/d533/d533.py)|[d533](Contents/d533/d533.cpp)|
 |d579: 兩條線|[d579](Contents/d579/d579.md)|[d579](Contents/d579/d579.c)|[d579](Contents/d579/d579.py)|[d579](Contents/d579/d579.cpp)|
 |d581: 三條線|[d581](Contents/d581/d581.md)|[d581](Contents/d581/d581.c)|[d581](Contents/d581/d581.py)|[d581](Contents/d581/d581.cpp)|
 |d635: 幸運777？luck|[d635](Contents/d635/d635.md)|[d635](Contents/d635/d635.c)|[d635](Contents/d635/d635.py)|[d635](Contents/d635/d635.cpp)|
