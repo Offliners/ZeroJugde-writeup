@@ -18,8 +18,8 @@ int main(void)
 			carry = temp / 2;
 		}
 		
-		puts(a);
-		puts(b);
+		printf("%s\n", a);
+		printf("%s\n", b);
 		printf("---------------------------------\n");
 		for(int i = 0; i < 32; i++)
 			printf("%d", result[i]);
