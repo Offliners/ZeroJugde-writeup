@@ -44,6 +44,7 @@
 |d533: 複數比大小|[d533](Contents/d533/d533.md)|[d533](Contents/d533/d533.c)|[d533](Contents/d533/d533.py)|[d533](Contents/d533/d533.cpp)|
 |d579: 兩條線|[d579](Contents/d579/d579.md)|[d579](Contents/d579/d579.c)|[d579](Contents/d579/d579.py)|[d579](Contents/d579/d579.cpp)|
 |d581: 三條線|[d581](Contents/d581/d581.md)|[d581](Contents/d581/d581.c)|[d581](Contents/d581/d581.py)|[d581](Contents/d581/d581.cpp)|
+|d632: C and S ??|[d632](Contents/d632/d632.md)|[d632](Contents/d632/d632.c)|[d632](Contents/d632/d632.py)|[d632](Contents/d632/d632.cpp)|
 |d635: 幸運777？luck|[d635](Contents/d635/d635.md)|[d635](Contents/d635/d635.c)|[d635](Contents/d635/d635.py)|[d635](Contents/d635/d635.cpp)|
 |d709: 判断质数（一）|[d709](Contents/d709/d709.md)|[d709](Contents/d709/d709.c)|||
 |d786: 三、平均值|[d786](Contents/d786/d786.md)|[d786](Contents/d786/d786.c)|||
