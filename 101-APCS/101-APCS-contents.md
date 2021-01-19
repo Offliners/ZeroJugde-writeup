@@ -10,6 +10,7 @@
 |b964: 第 1 題 成績指標|[b964](Contents/b964/b964.md)|[b964](Contents/b964/b964.c)|[b964](Contents/b964/b964.py)|[b964](Contents/b964/b964.cpp)|
 |b966: 第 3 題 線段覆蓋長度|[b966](Contents/b966/b966.md)|[b966](Contents/b966/b966.c)|[b966](Contents/b966/b966.py)|[b966](Contents/b966/b966.cpp)|
 |c290: APCS 2017-0304-1秘密差|[c290](Contents/c290/c290.md)|[c290](Contents/c290/c290.c)|||
+|c291: APCS 2017-0304-2小群體|[c291](Contents/c291/c291.md)|[c291](Contents/c290/c291.c)|||
 |c294: APCS-2016-1029-1三角形辨別|[c294](Contents/c294/c294.md)|[c294](Contents/c294/c294.c)|[c294](Contents/c294/c294.py)|[c294](Contents/c294/c294.cpp)|
 |c295: APCS-2016-1029-2最大和|[c295](Contents/c295/c295.md)|[c295](Contents/c295/c295.c)|||
 |c461: apcs 邏輯運算子 (Logic Operators)|[c461](Contents/c461/c461.md)|[c461](Contents/c461/c461.c)|||
