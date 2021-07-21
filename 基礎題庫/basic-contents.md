@@ -71,7 +71,7 @@
 |b877: 我是電視迷|[b877](Contents/b877/b877.md)|[b877](Contents/b877/b877.c)|[b877](Contents/b877/b877.py)|[b877](Contents/b877/b877.cpp)|
 |b884: 電腦教室的傑克|[b884](Contents/b884/b884.md)|[b884](Contents/b884/b884.c)|[b884](Contents/b884/b884.py)|[b884](Contents/b884/b884.cpp)|
 |b911: 我想跟Kevin借筷子系列4|[b911](Contents/b911/b911.md)|[b911](Contents/b911/b911.c)|[b911](Contents/b911/b911.py)|[b911](Contents/b911/b911.cpp)|
-|b923: stack 堆疊的模板題|[b923](Contents/b923/b923.md)|[b923](Contents/b923/b923.c)|||
+|b923: stack 堆疊的模板題|[b923](Contents/b923/b923.md)|[b923](Contents/b923/b923.c)||[b923](Contents/b923/b923.cpp)|
 |b969: hello, everyone|[b969](Contents/b969/b969.md)||[b969](Contents/b969/b969.py)||
 |b970: 我不說髒話 (續)|[b970](Contents/b970/b970.md)|[b970](Contents/b970/b970.c)|[b970](Contents/b970/b970.py)|[b970](Contents/b970/b970.cpp)|
 |b971: 等差數列|[b971](Contents/b971/b971.md)|[b971](Contents/b971/b971.c)|[b971](Contents/b971/b971.py)|[b971](Contents/b971/b971.cpp)|
